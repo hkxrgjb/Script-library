@@ -1,1 +1,436 @@
-([[This file was protected with MoonSec V3]]):gsub('.+', (function(a) _HzggOCDRPETR = a; end)); return(function(j,...)local k;local l;local c;local z;local u;local t;local e=24915;local h=0;local n={};while h<345 do h=h+1;while h<0x243 and e%0x1594<0xaca do h=h+1 e=(e-545)%23070 local y=h+e if(e%0x1b7e)>0xdbf then e=(e+0x207)%0x3614 while h<0x16d and e%0x376a<0x1bb5 do h=h+1 e=(e*264)%42490 local k=h+e if(e%0xbee)<0x5f7 then e=(e-0x1f7)%0x41f4 local e=47506 if not n[e]then n[e]=0x1 c=string;end elseif e%2~=0 then e=(e-0xdb)%0x9747 local e=19665 if not n[e]then n[e]=0x1 end else e=(e*0x17e)%0x9252 h=h+1 local e=39538 if not n[e]then n[e]=0x1 u=getfenv and getfenv();end end end elseif e%2~=0 then e=(e-0x34b)%0x943e while h<0x151 and e%0x3efc<0x1f7e do h=h+1 e=(e+445)%43157 local k=h+e if(e%0x121e)<=0x90f then e=(e+0x3a3)%0x5c28 local e=49894 if not n[e]then n[e]=0x1 end elseif e%2~=0 then e=(e*0x1b3)%0x863d local e=34248 if not n[e]then n[e]=0x1 u=(not u)and _ENV or u;end else e=(e*0x2e3)%0x6950 h=h+1 local e=16206 if not n[e]then n[e]=0x1 l=tonumber;end end end else e=(e*0x1b3)%0x3c3c h=h+1 while h<0x1d7 and e%0x1cf0<0xe78 do h=h+1 e=(e+817)%13489 local y=h+e if(e%0x13e8)>0x9f4 then e=(e*0x20a)%0xa508 local e=73437 if not n[e]then n[e]=0x1 z="\4\8\116\111\110\117\109\98\101\114\68\69\105\82\69\105\102\120\0\6\115\116\114\105\110\103\4\99\104\97\114\97\109\107\95\82\88\86\104\0\6\115\116\114\105\110\103\3\115\117\98\74\88\85\95\103\102\116\112\0\6\115\116\114\105\110\103\4\98\121\116\101\84\111\106\105\104\83\104\67\0\5\116\97\98\108\101\6\99\111\110\99\97\116\101\108\71\114\107\75\65\72\0\5\116\97\98\108\101\6\105\110\115\101\114\116\70\71\82\106\68\80\106\72\5";end elseif e%2~=0 then e=(e*0x320)%0x543e local e=6898 if not n[e]then n[e]=0x1 t={};end else e=(e-0x27b)%0x8c2e h=h+1 local e=9644 if not n[e]then n[e]=0x1 k=function(n)local e=0x01 local function h(h)e=e+h return n:sub(e-h,e-0x01)end while true do local n=h(0x01)if(n=="\5")then break end local e=c.byte(h(0x01))local e=h(e)if n=="\2"then e=t.DEiREifx(e)elseif n=="\3"then e=e~="\0"elseif n=="\6"then u[e]=function(e,h)return j(8,nil,j,h,e)end elseif n=="\4"then e=u[e]elseif n=="\0"then e=u[e][h(c.byte(h(0x01)))];end local h=h(0x08)t[h]=e end end end end end end end e=(e-429)%21741 end k(z);local h={};for e=0x0,0xff do local n=t.amk_RXVh(e);h[e]=n;h[n]=e;end local function y(e)return h[e];end local y=(function(z,k)local j,n=0x01,0x10 local h={{},{},{}}local u=-0x01 local e=0x01 local c=z while true do h[0x03][t.JXU_gftp(k,e,(function()e=j+e return e-0x01 end)())]=(function()u=u+0x01 return u end)()if u==(0x0f)then u=""n=0x000 break end end local u=#k while e<u+0x01 do h[0x02][n]=t.JXU_gftp(k,e,(function()e=j+e return e-0x01 end)())n=n+0x01 if n%0x02==0x00 then n=0x00 t.FGRjDPjH(h[0x01],(y((((h[0x03][h[0x02][0x00]]or 0x00)*0x10)+(h[0x03][h[0x02][0x01]]or 0x00)+c)%0x100)));c=z+c;end end return t.elGrkKAH(h[0x01])end);k(y(97,"6<7=1_Z:zS->xk*L-1"));k(y(135,"d{9sQTY<Uv-;%6_n<vnU6_TU%nsn;69nQT{_-U{vvT3;<Y6;Ys_vY{%sssY-_Q%UsQ-;9n-U96<_{-Us_YTsn%TT<_n;6nT-%-QU%<{n;&9v;Ke<Y_/{<%vQ{snv<s_-T-6UQ-Y{Q9-ns;-s9{-vin<66_T%nvTTn;n-<<Tv%YT9;n6T;T9Y-&9%v6{UYQn_<669<T_6YQ<9ns6ss_%YsU-vs{v<9sUvWsUYnUY{6qT<6_TT%%Qn-s6UTQ{%-Q{;-T{vvT%nY{/Y<T6vYT;ss<;v_{T-QY-v9--_n--9{UU{6_YY6nYY<6nT-YQ%;TQn%Tsh;9Z{-v;99n{QUUKT<nnYYY_QTY;%TQ%{Q%vvsU;{{{se-_vYn%<YnvY;UTY66nT-%Qsn%m{<-vsv-_O9<Yn-<{v-{Tn6Yn_-TQ%nTF-sQ;%Ys9;Yssv<9T9--QUUgs<sn{<q;6QQ6;QUvns{-f9TQ{;%-9k6U6nn<YE)Y6_UY;%UY96QQYvn%6Q-9%vv9Tv9-UU9z{<6nY<9%YTY%-s6;{9Y;-{9QY"));local e=(-1081+(function()local u,h=0,1;(function(h,e,n,u)n(n(u,n and e,e,h),e(e and h,e,h and e,e),h(e,n,h,h),h(h and h,n,u and n,e))end)(function(e,c,n,k)if u>292 then return e end u=u+1 h=(h-548)%16499 if(h%1146)<=573 then h=(h+387)%29307 return k else return c(k(e and e,n and e,e,n),c(n,k,e,n and c),c(n,e,n,e),k(e,e,c,c))end return k(k(k,k,e,c and k),k(c,n,e,e),n(n,n,e,n),k(e,n,e and n,e))end,function(e,k,n,c)if u>267 then return c end u=u+1 h=(h*736)%40199 if(h%1654)>827 then h=(h*373)%1725 return k(k(n,e and k,k,n),k(c,c and n,c,n)and e(c and c,e,k,n),n(c,k,e and e,e)and c(k,e,e,e),k(c and n,n and n,e,n)and e(k,e,e,n))else return e end return e end,function(k,e,c,n)if u>337 then return e end u=u+1 h=(h*201)%25388 if(h%1170)<585 then return k else return k(n(e,c,n,k),k(c,n,n,n),c(c,c,e,n),e(k,c,n,e))end return k(c(e,e,e,n),n(e,e,k,k),e(n,n,e,n and k),c(k,k,e,c))end,function(n,e,c,k)if u>377 then return n end u=u+1 h=(h-293)%23245 if(h%1020)>=510 then return n(n(n,c and e,k,e),n(k and c,c,e,n),k(e,e,k and e,k),n(e,e,n,e and e))else return n end return k end)return h;end)())local ke=(getfenv)or(function()return _ENV end);local d=t.Etvitxcx or t.IbyuPKVT;local z=4;local k=3;local b=1;local u=2;local function ee(r,...)local f=y(e,"01yHG6zj,cAIuhwk1,yzIcGuwBzk166yGAukzyG6HziIwkuchchzy6wHkzw1HzH6AG,wwLI66khk,uzykc,z1cAu,yG1h1zjkh61IHGhhjzAkhwH,zy,AwG1hhGc*Ac1IhGww1jG8jcIyhu<6HwzjcwuS6jyuzuHcu,jI1yGIHcIcuky,,1zAcHuy1uj6zwI,HIVG6hGzjkAh6,kyEAIhIjHkkcyy6)IIGGohhzhL6c1Ik66wHjzqchhcyHzIw6wju/wA1HGuj6AAhw66HA,GAuu6kkyhy,jypI1HzAzzukwc11kI1vjAuz,k,,6y)G,hIjVNjcGyjIAckG6hhj6_ycAu16zw6j,5IwucyH1Iuwu,u1}AHHz1cu,6iw6jA1/AAHAu66ckczw1yI,Gjz,kk,u1kIy,zHIhkzjtj,cIc66hhj<pHwA,wHGuHHcwjzcFIcwyzI,w,jAghAEHHuz6cwujk1HA6H,uI6wk1,G6,wAHhh1zGkz,c1uAkGyc6IuHIcZy,IGGjhAIPzk 6,Io-u1G,jHZ6c,yIIw61wGuvGAckH,uH6zwcuujw16cwHuuG6hwk1zAIHAuhz%HAk6,,1MG1hIz6k,,IzyyHA6Hwh16wky,k1IGAcIG,zwc6wuG6ymy!j6wzGHu11kh,u,GkGIA1H,u66,wIuwjy1zcuH,h1k1,H1zAcHuukzyy6u,1uHczwjhwzAkkuk,kyGjhczukkcyy6I,Au1wjHsccjyAIhu#Gzhjj6d,Hg,hH:h,IAH%Iu16_z6uk6,91HAz,yHAhyzzwz,z5wAHhHcykj,A1hbGAIHjhjzjayGy1IIjGh,wjzJjcMy,IGQ&u6zIkA,kyjjyyuwhjGIw,jkjjjHAwc,HuH,cHwIwzyw6,j11chHH,1ywI21uIyG^hHzzHIkIcjyzIjhcy^,cyArHG,uGcAAk+6ccycIuGk63hAjkchHyu16Gwjuwjy1,Aju,z,wujk1ywjAjGHjwG6kzj,1,IRG uGz,ww,AyHGHh6z,kI,wy1IGIy1AzkgjcHyzIc,kGww?jHkh,wHy6yzhcI6Gjhhw6,kcy,jhKkAyH6u,6Ikwk66GA,Ij6jG1Iy>zuGcjjwhHuz<cAucw16GzuGAckkccyHIzGc1khIzjkzcAhIcV62wu7cAyyhu:6HHAhw,G1H,6ywhy6vjk11AGHjuA6hcrwj6zAIGHukzyk6ww,h1hAwyzAwHu,kyGIHGzhcI1zh(jcyIcGIhwj1:GcjAAkkc#w6,HSccuyky1chzywyj6kojjoIAuHhu6zjk,HAuu6kky,61,AIyw1QzzkI,A1hIY,jG,uAzHciHH1HHhHAhcw8GwzzIuGwwvjH:zuzywhb6yw6j,6I=AcyyjIu6ywuju9jcIHIck6www,G1AzwhZzIkG,j1AwkA1Hkhy1chw,G1HA,GZzh4Hc1yGIjcJGkh1jCkIyIu_Gkwyj66I*GA,yz6zk#jA4hAF,jyIh1zOuIjH_jchHjz#kI,G1jAAAhG6hj1zkjc11uAGHAhAkh,ky1IGGjHGzwuHI6z,Ic16wH6uGGcAyuIw61wGukPuA6H5uH6zHzw6jhsIAyH1h66H,yc6hjyzuuyjkGHc6,AwGHhyz6k,hA,w1zIyhcj,khcbyH1gcyGAhHzjFhzAyZIzGywAj(9cckuy66wzjciuFjA1uj6hwIjw11kcjIHHuAyy,G1zAcHuukzyj6kG6II.zuhGzjkAwzjGhHIyGyhAzAuuG6yWIk6yw1jjh16cwuAc6ywIjh11c1yj,HGIwAjIhZcjkzI1Gwky,6fkA,Hwh1z1wjjh1hHkhyjuuzyAIwjkHH16zAywIkHHj6yuGc6>G>czyAIAGhw^AHHGhoywuh6yw6j,6wq1AHHHuH6zwzjw-AjuHIIh6uwj1z6HAhwGz11IkwwhwuGyhwzzkc,uz11wIGHIhz1wwH,c1,AhG6jy4AczycIuAHGjwhjuhhchHc66wjjAThA3HHGzAcyu,Y1yA6H,uI6wh1kH6jAIHhh?zHkz,chuUy,yhzz,kI,wy1IGzjG6Ah<yc,yzIcGuyyhwjG5Ic}u46,wGjj^Awmcuy,Ij6Icu61AGHwu,6IwwhHjcU,chH6,:6AkI,yAwGchyz6k,hk,HycI,1Ahczckkc6wcGAH6cywz6GGhcIkqy=j6;jcAyhu%6HwzAkGuA(GHAHzy,I1jAAzhjzuuzHkf,H1zwAckGHuIzIIc1hIyG1hGzjHukcc61,G,kyzukkcyjyyjIAGuuGzckA,c1xuG66hkjjPHAyTAIwGuhkjHKkj6HIuw6k,y1wAzHcuuIHzGwz,z1wAwHyhz6uk,c1I1GHhzzcku,kyykH,,hhjhS1cGyjkuIu6yhjzIfIjky,uuGAu,jG1zczH96cwwjh1VAHjcHIu16H,G1kA,HIuwIGzHku,u1 A6yzujzjkkyqIyG6h,zIkwc1jIkjGI)H,zu1j6xhyAH1y1jj1GcIywu1AzGuhIj^7,6HYhuw66ckz,h,HAuk6wk1,GzH1HAIHIz6kA,c1uAk,kHwhzzGcBG,IGGjhAu1z,kucchcIyG,hwzAI,Ay1kuGfGwjju}uAGy,Ic6hw1jHuyAuH1uk6zA1z11zAcHIIH6,wcHcJyjyhHz6AIII6wyyzk,IAckwIzc8IwAczkIuw,hGyAIuGww1jGzBcIGwjuz,yzAuHkj,j1uzHky,6Ij+HyAu,ucuky,j1zAcHu16h1zHku1uzuG,1GyjjAgcw1kyG,wHzukkcyjc1huH6yuGzjk,czyyIGw6,e)ccuyk1zIAzCwk6>1zA,HIuc6I,y1hAzHcuuI16jky,jy1AHk1uIzukH1wIVGHhzzcku,k,yk6GchIzwr1cGyjIA,jy9j61zccyuIkcGGzhIjz<6AHHHuu6,w16H1yAyH,uwyy,G1zA,HIuwAkkzAH1AAhG;yzuczIk6,kyzz6G6uuzykzGG1cuHkhujzGW,cIy6Iw6GujjjkhcHHHuzw,jA*hADHHuzccGzIk1GAuH,uI6wGjwh,A1HckHuu,k,,h1uAkGyHuucz,kHyyIIc6hGSIH,wHwyk,Gwwyjy 6c,jhyHI6w6jjJAchH*uH6z16Iu11AjH6u,6IH6kHjcOuA,ukzzkH,z1ckwAGHHu,6IkHHyIzGGhjzA,IcmyHIzGAhuzkbyAjAkIIGww1hj5jcAyhhyIwwzjc&uh,Hyu66,11IA11AGHjhg6hk1,H,GAcGYHyzyk6,,y1AwGyhGzj1j,hyBIHGjhczukkAGcEI,GIhwcjJGcjyAhhuIwHjzOccuykwu66kA,uZwAyHGuu6Awh,q1HIyHcuu6kkG,61AAI6ghjzGk,,AGHI!GHhz,cXh,kyHI6GchIc,D1AzHuIAGkwsIHxzccyuIk6uw6jc?IA:H1uz6jkuw,1vA6Hzwk6uwk,yH6yHHIhPz1kz,jGGAh6yh,zzku,u6kIyG6h,zIkkc1yzIjGuhhjyPHA,HyIu6ywycI{,cIyww1zuwjjhohAHHHk=6ckwcj1yAcH,1h6wk1,G1jI#HhhHzHk,,c1wAk6GG-z,kk,wGjIGGjhA,hjIcHyAIc6Khkcu}6AAGGIw6zwGwwNAchH^uHzHwc,27kAGH6uA6I+bcI1GAuHAkHz?kH,zHcIIHkhjz6kh,IG,I16zw6zAOHc#cAIzGchuzkW,c6yhII6;w1jzFjAuc,u96cwzck_uckHyw6hHwI,G11AAHjkG6hJy,j1zI_HuGzzyk6,,1Iu6G1hAzjku,hyyIH6,wkzu%zcyGII,GIhwc1_6cjH1Ih6jwHAs2cAwGGuy6hw,IIvwA1HGujzHwh,j1HA,Hcuw6k?Gk=1,IHHwkjzGkj,AHhyIGHhwzc{G,kGuI66AkHzwtAcGzcIAGhw}jH1_ccHGIk6Gw6jAtIIXHjuGzEwAAH1JAHHzwczIwk,I16I1HIk,z1/zAy1AIjG{16zzkc,u1kucG6w1zIN)c1yzIj6uG,j-9hczGkIuGkwyc6,HcIH,u16wwjAGthIyHcuzzGwukz1yA6H,uIzjk1,w1jAuHhhyzH;,cw1uIAGykIz,kI,wG1uHGjw6zhaIcH6*Ic6wkAjy11c,zhIw61wGjj1ychHIuH6,wcjw)kIGAEu,zjwwAj1GAjHAwhhIkHcy1cI,Hkkuz6vAch1wIwGG1czAkhc yHh1Gcw,zk/Gc6yAIIzWkzjG1GcA6Hu)6HwzccyjckHku6z6wIA,11IzHIuAzIkWuH1zAcHuukjzk6c61IInG1hzzj8uk,yfu1GzkkzukkcyG6HHGIwuj11ycj6GIhzykZjz1,cu,Guy66w,jIyHA1Gyuj6uwh,y1HI,HwuuzwkyAI1,AIHwk1jkkjcc1hIkGHKZzc:wAGyyu6G,H{zwq1cGyjuyGhwkjH#,ccywIkzG6*j,1Icw6juG6jwAch,IAHGzuczuwkAu16IAGhuwjykGhu1AAhGLhHjHkccu1kIGG6hAzI1FAyyGu,GA*HjK-HczGchcGkkHj61ccI6,u1zzw,jA1kAp,,uz6cwujk1uA6GcuIzBk1,z1jIuA,hYj6kzAk1uAkGyk6wHkIA*y1uzGj_Gzh1yAjyzuuGuHGjy+6c,yIu161kzjjXuchHyuHz,kHjuyyAy6Iu,6IwwA1ykAjGhuhjHkHI!1cIwGIhyjck,w 1wI1GGhjj6khAHyHI,Gchwzk1GrLy,ukGwxjjGJjcAGhHI6HkAjcy#ck6uu6zAwkjwyzAG,uuA6hkW,H1IAc6LukzGk6,A1Iu46whGjukAIHy/IHGzkcjhkkAjy6uhGId,j11zIyyAhH6b6Ajzxccuykuk66khjI1pA1Hzujzu6,,EycAz6kuu6kkyA6cHAI6Gh1jAkjIG1huy6uhz,8ku-zyyI6G,hIzk.1AAyjIuGhwyjH1,cuyuhz6y;Ij,dIcw61hz6jq1jhyjAHz(uczwny,yyhA,c<uwz1kG,jHzAh6jhHz,kc,w1kuGI{h,,HkwIjyGIjGAkhwIUHAwychGGk(uj61AAwywhA6G6wjArhA<HHuj6c.Gjk1GA6HAuIj?Xy,GHPAAzHhFzHkzAcyyAk6Ih6,1kII,y1uz6jhA,jZQ8AyzIcGuhk,c_6I1yIuW61wzjj1ul,HFhh6zWkjuUkAy66GH6I%,,1ywAjzGuhjyVh,zHGAuIzhyz6k,,IyHI16whjzukhcyyHu,6,hu,AoyIIy,IIGwD1,w2jI6yhhI6H1djc1wIIHyw16,yhjw11AGHjwz6hQI,H1,AcHwukjG2k,,HjAwzjhGzjkAAhyIIHzyhc,,kkIuy6uAzHhw,w^G&wyAIh6mwHcHXcI,ykuG66wAjIHwAGHGuj6Akw,lzkAzGIuh6k)k,6c,AIHwh1,GSh,AHAIEz7hz,ykuckHHI6G,hI,wq1I1yjuuz1wdcD9zh8yuIk6yN6,1-IIIH1w16jHGjhH&yIHzwz6uCu,yy4A,GIzhz1kG,jzGAh6hhHczy,,uy2Iy6zh,AzkwA1y,IjGIhhcoSHczycwuzjwyjz/,Awywh,6Gkc,z^hIhHHuA6cwujkHyAzH,w,6w+w,GGhAAGkw6zH1G,cH1AkGyh6jAnG,wGZIG6uhAzhv^A6yAIczuhk,j#6c,yIIwwjwGcG(AIhH{u66zkc,uZkAHH6GH6I<I,1GGAuHAuwz;1_,zHeAu61hhz616,IzAI1GGhj,A1Gc<GWIzzzhuccDyAjGKIIzuw1IuajcAyhhyzwwzc,buIGHyu66,khck11uGHjHh6hk9,Hy,IzHukxzy=A,,1IAwG1wyzj1j,hG1IHG,hcjuQAcyyzI,zzhw,wMGAcH6IhzhwHuy:ccuykwyzbw,c,(wIwHGk16Akkch1HuGHcw16kky,6yAEHHwkgzGyj,A1hIQ66ywzc1u,kHjI6G,hI,=6ccGG,IAIywijH zccyuIkzkw6ccBIA-H1hG6AwAjw1}wGHzwz6u1kc,16AcHIGhz1fH,jyAuyGdh6zz1c,uy_Iy6jk1zI1Ic1y,IjGAhhci1GczGzIuzuwyAIb,AhH1u1jywj,kQhA;HHh,,twucw1yIAH,uI6wqH,61juAHhw6zHkz,c1uIwGykyz,1I,wyHIG6jwwzh=ycHA1IczchkAyyyc,yhIwIjwG,u+AAkHwuHjHwcu,=kAyH6w,zhwwcw1GuGHAkjzfP6u,1cuAHkwjz6k,,IHLuHGGkzzA1yc#yHIz6Ihkzkyyc6zyIIGww1,zyycAGwufz,wzjc_uckHuu6j6wIck11AzHjhAj6kY,61zuGHuwuzy>j,A1IuIG1y:zjkA,hG#IAGzkzzu1ucyGkI,6hkjj1yycjHkIh6mwH,,1EcuGwuy,6w,jIqwIHGEujjAwhc61HAzHchwj6kyAz1,IyHwh1zGkjAG1huhGHkjzckw,kHyuhG,hhzwGycGGGIA6hwGjHMcccGuIk6Gw6A,1kcwHGuGzAwAcG1lI6HIucjcwk,z16A,HIwwjqkGAG1AuAG)_czzLIch1kh8G6kIzIkwc1HzhGGAkujLyzczycIuz1kuj6y,cI61u16GwjjAAHAb6duzjcwu,11yI6GuuIz1k1kk1jujHhCizukz,u1u16GywAz,&hAjy1h1Gjyzzh>-cHGzukGukujyyyc,66IwzHwzjjy,chG6uH6zwc,w1yAy6Gu,IHww,11GIccyuh,gkHcI1cAuHkwGIhk,Au1wI,GGhjzAkhcSyHhHGckhzktGc6H,ukGwwGjGG,cAGAuX,HkIjc1:ckGHu6zywI,wycAGHIuAjhki,z1zIIGzukjkk6,u1IAwG1kGj1kAAAy+h}Gz>kzu11Ajy6hzGIkHj1>GcjHuwG6vlyjz1wcuykuyzjkHjIywA1Gcuj6Awh,<y1Az6zuujkky,j1,IIG#h1z,kjb61huhGH#zjckucHyy1IG,kazw1HI5yjhjGhyujH>zccGuhA6y?yj,y,cw6IuGzcyujhywAHGIuc6uwkcGy6A,6AuwIjkG,j1AIkGAhH,zkcA11kIyG6wAzkkwIyyGh1GAhhj&4HAAychcGkxHj6;AcIHwuc6GwIjAGwAd6%uzzI+GjkykA6zkuI6wk1AG6hAA6Ahi,fkzkh1uukGuh6,6kIAIy11uGjwAjyv7cjyzyhGukujyH6AGyIuy61#kjj1GchGyhy6zKzju1HAyH6u,jI7H,1H1Aj6juhczkHc,yyAu6hhyIuk,,I1wuHAhhj,ckhwjyHIzGcww,j%yI6y,1yGww1jGmjcuyhhh6Hlzjc)wckGyhj6,wkjwzwAG6GuA,htj,H1AAcIyukjck6I,H,AwG6hGcIkA1fy<wH6chcjnkkAzy6ukGIkwuzoGIGyAu16{k1jzycAIykhk66F6jIHuA1HAhA6Aau,t16AzHAuuz1ky,6j1AIHwh1zIkj,A1hIXcuhzzckucuyyI6G,hIu621I1yjhcGhw1jHHzA6yuuG6ykzj,1GcwG1h66jwkjhHnAHHcuczwkH,yHyA,Hkuwz1kGAjyhAh6hhH,Hkcuy1kuGGkh,,ckwAzyGIjGAwk,GbHI6ych1Gkwyj61AAjyww16GkujAehA-HHu,6cfcjkHyA6HAuIzwkH,G1uAAI,h8,okzIcHcAkGjh6uwkIAHy1uz6jhA,AsihkyzIcGukkjzm6I6yIhI61gwjj1uIAHTw16zkwjuZkAyGjBh6IVh,1ycAjHAuhjyk6,zHcAuIGhyz6k,chHzI1z6hjjkkhc-yHIz61hu,uRyIzy,IhGwk1jc!jckyhhI6H*Hjc1wAcHywy6,Hjjw11AG6jhA6hih,HHHAczzukjGHj,,HcAw6zhGzjkAckHcIHz6hcuykkcyy6uA6hhwc1:GAuyAIh6!k6,HPcIhykhu66w,jI{wIAHGwG6A?w,%16AzGchh6kkj,66cAI6Ih1jzYG,AHAI-jAhzzckuAkz,I6z6hI,IR1U,yjhAzGw:cCtzIzyuyj6yk6cGiIAHH1H,6j#jjhG;AuHzuw6u1A,y1wA,Ghukz111,j1wAhG.hH,zkA,uHuIyzyh,A1kwAHHcIjz,hhuj7HczycuwI,wycGs,kyywu16Gkcjw huSHH1h6cwujk1yAAH,w,6w11,G1cAAGhh6zHkI,cjcAk6kh6c,ku,wyzIGIhhA,G94uHHAIc61hkAzU61IyIwwz6wGju<AI1H)hA6zQch1!kIkH6uh6Iku,1HGIGHAwAzS14,zGjAuG6w6z61j,I1kI1G6hjzukhcejuIzGchujzZyc6y,IIAjw1jGajAjyhuT6Hwzh4BuIuHywG6,wujwG1IAHjh-6hf1,H,wAcGuwjzykI,,HIAwGGhGjc1y,hHhIHGAhczukkIyykI,z,hw,wtGuhyAukzPwHcGBckHykuy66kAcjbwu-HGhu6Awh,!y6IyHcwu6kWj,61,AIHwhkzG1G,AHhIVG6hzjc16,ky,I6uHhI,Ia1uGGHIA6HwThc+zAwyuh16cw6c6NIwAH1uG6j#A,h1nuYHzwz6u1c,yyjuGHIwuz1}c,j1AAh6y1,zz1,,uHGIyG6h,jh1zc1GGIj6yhhjX}HA,HkIujMwy,A3,cIywu16uwjcj:hu1HHu,6cku,}1yAIH,wz6wEw,GycIyHhwhzHGy,c1uAkzyh,z,1,,wHwIGj1hAjkGycHGGIcz1hkjy+6AAHAIwjxwGuhWAchHbh66AwccuEkIjH6u,6In^,c1Gu,HAwjzekH,z1cu,Hkwkz61c,IysI16GkHzAeHc^zGIzzzhu,11zc6G6II,6w1jG#jIAjHu/jmwzczdu1HHyw66hwIcI11u1HjHy6hfncj1zAkHuGHzy1y,,GIu,G1hAzjy6,hc,IH6,hAzu1ucyycI,GIhwc117cjGjIhzhwHAubcAwGcuyjHw,cF.wA1HGhcuHwhck1HIIHcuu6k;G,z1,uIHwwzzGkj,A1huzGHkHzc1u,kyGI66,hwzw#jcG,GIAzAwrAHy1ccHyIku,w6,k(IuwGcuG6hwAI11ryzHzkczGwk,,16IuHIw6z11Ghu1AuAGEhczz=j,uHkIjG6k6zI1Ic16yIj6ik:j_yyczycIu6awyjza,cI,ju16GwjjA8hA#HHuzI3wucu1yuGH,uu6wy1cH1jI1Hhw1zHG1,cyuIzGyhuz,1I,wyHIG6chkzh1hcHyAIcGuhkcy1Hc,G,IwzwwGAhPAAkHIuHjGwcckWkAyH6hAzHwwA 1GuAHAuhzxD6xA1cuuHkk6z6k,,I1wuGGGkGzA1hcOy6Iz6cwJzkpcc6AHIIzIw1,z1ycAGAuTckwzjcNuIkHGu6j6wIcI11uwHjhuzGkJA11zujHuukzymjch1IuhG1wczjkA,hHyhGGzkczuywcyy6I,6hwcj1y6cjHkIh6NwHjz1IcuGuuyjzw,jhnwI1Hhujz1whcI1HuHHchwj1kyAy1,kjHwh1zG1jcH1huhGHkHzcyz,kHGIIG,kczw1zcGyjIA6kH,jHy6cc,6Ik6yw6,AzHcw61uGzuwAjh1.I6,wucjhwkIj16A,HIuwz1kGAG1AuwGBh6zzmccH1kIcG61czI1Ic16GIIGAw6jU1GczG6Iu6kw6j61&cIGwu16Iwj,uyAAW6duz6hwujk1yu6GkuIjIk1A11jwFHhwy,dkzAj1uhyGyh6z,<hI6y1hHGjkhzh{:cHH,IhGukkjyy,c,yIIw61k1jjyjch6vuH6,wc,uyjAyHhu,hzwwcw1Ghj6yuhz,kHwu1cu1HkwGzkk,A,1wkhGGhjzA1hcyyHhHGckczkyuc6HAkhGwkkjG1ucAyhuxz6kujcyIck,Iu66,wIcUy,AG6juAjykB,H1zIIGyuk,Hk6Ay1IAwG1hGjhkAAAy!hGGzhIzuYkAuy6ugGI1kj1y1cjHuu66%.8jzG4cuykuyj6ywjIyIA161ujuwwhA;yhAz6zuujukywh1,IIGNh1zukjkw1huhGHKz,1kucjyywEG,<yzw1HAyyjhjGhwGjHQzccGuuc6yPyj,y,cwzjuGzck1jhywAH,huc6uwkcGjwA,6AuwI,kG,j1AIkGchH,zkcwH1kIyG6h,jAkwAwyGhjGAhkj*1HAAycuGGkHkj6y6cI6wh16GwkjA,HAPGAuz,cJcjk1AA6zuuIw1k1IGHGAAG6hVjjkzA{1uhk,hh6j1kIcky1u6GjwAj1B>cuyzhcGuwzjy1jcIyIhI61w,jjBAch6thy6zNzjuyuAyzIu,zhf-,1HyAj6huhz+kHc,y1Au6why,,k,,I1wuHGuhj,AkhIHyHIzGchum6MyIyy,hIGwwHjG1jAwyhuc6Hz1jcycckzyh66,kGjwjjAGGuuAzkk,,HHHAc,,ukzyk6A,HzAw6whG,GkAIjynu66chc,AkkAjy6I,GIkt,,fGIzyAhy6+wHjz1IIhykwy66(jjI.wA1Gzw86Arw,{y,AzHcuu6kkz,6H6AI6kh1zzkjcAHzIEGuhz,GkuAuyyuj66hI,I*1wCyjIAGhW),kdzIzyuhu6y kj,1hI,H1wy6jkkjh1vAHG,ow6u/w,yGyA,HIuwjHkj,jHAAh66hHzzkccwy,Iyzzh,,6kwc1yGIj6Ahh,h7HIjycIwGkky,yT,AGywUy6G_GjA1kIjHHwH6cyHjk1yA66,h,6wEw,GHGAAI1h),Hjw,cHcAk6kh6h!kIcwy6IG67hAw1xZIJyzwczjhkjI96uHyIuG61kzjInAIAH_uj6zwcjuykAIH6w66IvI,1GAAjGuh,zb11,zjQAuHkhyjjkI,IHhI1cIhjzAkhAyH1Izzchuuztyc6y,IIw1w1c1ljIAyhuy6Hkzu6SuA,Hyyy6,J,jwG1IcHjhH6hzz,HyhAczuwHzykw,,GkAwuGhGcjkk,hycIH6Ahc,HkkAGH,I,z,hwc6(GcjyAuHzHwHcGmcABykuH66wcjIfwkAHGuj6Akz,31HAzHcuh6k3k,61AAIHkh1jGzk,AyjIDzHhzj_kuA1HzI6z6hIjy#1cGyjhA6GwNc<_zIzyuk66ykj,j:IIuH1wj6jwAjhyyIGHzw,6u1y,y16A,Ghhwz11G,jHhAhGxhHzzfh,uHuIyz6h,zhkwA1y,Ij6GhhwI}HIHycwu6ywyjkP,_1ywhz6Gkc,,<hIhHH1y6cwujkHyI1H,w,6w9w,GG1AAGkwczH1G,c6,AkGyh6jAkk,wG}IG6uhAzh(DA6y,IczuhkwyQ6c,yIhxh6wGc,FAIyH>uH6zwccc7kIkH6wc6IkP,1yGA,HAhjz}_w,zHzAu61wAz616,IzAI1GGhj,A1ccqGCIzzzhuccdyAjyhIIzuw1,cajcAyhhyz1wzc,8uAuHyu66,khh=11uGHjhk6hkU,Hy,IwHukWzy/k,,1IAwG1wAzj1j,hG1IHG,hcjutucyykI,,uhw,wfGAcGzIhzhwHAhWccuykwyz6w,c,>wIwHGHI6AXhc11HuHHcwc6k6A,6y,AkHwhIzGzI,AHAITjHkHzcWz,kGhI66,hI,E8zcGGGIA61wYjH{zIcHcIkzkw6c6bIhGH1hzzuwAcI1akAHzuc6uP1cc16ujHIy6z1kG,jyuucGBkHzz6 ,u1kIyG6zIzI1Ic1GGIjGuhh,(AyczHHIuAuwycys,uIG<u16wwjkPqhIjHHkz6hwu,c1yhcH,Gw6wy1c61jIGHhwGzHLh,cHuuGGykyz,m6,wykIGzjkjzh1hcHGHIcjAhkjGHjc,GAIw6AwGjj3Ach,juHjHwccI=kAHH6k,zzww,u1GI,HAHcz_8Hc!1cIjHkkyz6kk,IH2IuGGkGzAi1c7yHIzzcwuzk1kc6G6II,Gw1,z13cAGIuOjzwzjctuI1H,u6jjwIA111AGHjhuzck<AH1zuuHuukzyk6A61IuIG1kGzjku,hHBuyGzwGzujAcyGyI,jIkRj1Bkcjc&Ihz6wH,,yHcuGuuyA1w,jI}wu1GAujjjwhch1HhiHchwjukyAH1,kAHwh1zGFcuk1hukGHwIzcku,kHGIIG,kIzwz1cGyjIA6kkhjHyjccG1Ik6yw6j,1ccwGwuGj,wAjk1 IHHcuczjwkch16u6HIw4jHkGAG1AkcG hHzz1c,h1kukG6k6zIy,c1HzkcGAkIjJ1,czycIuz1wzj6yjcIjIu16Gwj,u11A_6Huzzwwujk1yIjGyuIjkk1wc1jAAHhhejkkzAz1uhCGyhjz,aIcHy1IkGj1Izh1hcHH,uHGukujyHuc,yIIwj1yAjjyjchGhuHuAwccuyIAy6yu,j,wwwc1GIj6HuhzIkHkA1cucHkayjHk,cz1whuGGy6zADkcHyHhHGcwKzk{yc6G,h,GwkwjGyGcAzHu_z6k1jcyAck,cu66,wIcNjAAG6zuAIGk{,H1zIIGIuk,yk6hk1IAwG1hGjykAAAyQhHGzhIzuqkccy6uHGIHIj1y1cj6Au16&wwjzjkcuGzuy,6kkjI1cA1z,ujcGwhIn1AAzGGuujHkycu1,hI,ch1jMkjcI1h1jGHwz,WkucIyyh6G,wyzw1HA#yjhjGhwGjHWzccGuuj6y*yj,y,cwzjuGzckkjhywAH6cuc6uwkcGyAA,6Auw,GkG,j1AIk6HhH,zkcAk1kIyG6h,*1kwAwyGhjGAhkje1Hcuycu,Gk6hj6y6cI6whG6GkHjAjHADG,uzzIkIjkykA6,GuI6wk1AG1IAA6Ah ,XkzIH1uu16kh6,zkIhhy1IGGjwu,1tLIyyzuwGuhkjy1jIcyIhw61kcjj5AchGyuA6zbAjuyGAyH6u,6Iwk,1H1Aj6IuhzykHczyIAuGIhy,Sk,A,1wuHGchj,jkhhuyHIzGcku,,KyIyy,h,GwbIjG1cA1yhhw6HkIjc3uckGGvA6,2Ajw6wAGHjuAzk.H,HHzAc61ukzyk6cAy9AwzyhGuukA,hy+IH6whc,ckkIHy6IAGIww,j}GAHyAkw6KJSjz1IAwykhk661kjIOwA16Guc6AaA,%H5AzAhuujkjA,6H6AI6Ih1uukjcAy1IFGkhzhhkuAuyyw66AhIjA21IkyjHjGhkyjIDzIzyuuH6yw6j,yIIAH1w16jKjjhGzAHG,wy6uth,yzuA,HIuwjH8I,jHcAhcjhHzzkccwywIyz6h,uykwc1yGIjhhhh,hNHIzycIwGkky1Gr,Ajyw1w6GMGjAHhIzHHhy6czyjkycA6z,w!6wkh,GGIAAuZhVcHk,,cy,Ak6zh6jkkIIwy,IG6GhAjw?e1,yzuc6chkjk56I,yIuU61kz,ISAIAHeuj6zwcjuykAuH6w66ItI,1GAAjGu1yzS11,zHuAuHkhyjjkk,IHhI1zjhjzAkhAyHkIzzchucynyc6y,IIzIw1c1)jIAyhuy6HkzjA&uAuHyGW6,S,jwyHIcHjwj6hHu,H1zAc6uwczy1y,,H,AwzIhGjcHu,hHwIHzGhczukkAGykI,zAhw,zNGcjyAukzywHcz3cuIykuy66kAcj*wuyHGhu6Awh,n1Hu1Hcwc6k1H,61AAIGwhyzGxG,AH,IMzshzjIfh,kHkI6cGhIzwF1IGywIAzAwVcLKzuHyuh16Aw6cz=IIHH1uG6jku,A1TuyHzyy6uwk,yyju6HIwwz1Tc,j1AAh6yhzzz1A,u6GIyG6h,zI1Mc1G1IjzIhhjy{HAzyuIu6uwyIzN,I,ywk1,Hwj,jxh1kHHh66c1uuA1yIHH,hu6wHj,GyjIzHhhwzH1z,cycAk6Gwzz,1,,wy6IGGjhA,hW,cHGHIczchkA,P6AAH1IwzkwG,u4AchH%h66IwccIUkIjH6u,6I7 cI1GujHAwyzmkH,z1cGyHkwkz61,,IyrI16GkHzApIc!cwIzzzhuck^hc6HzIIIGw1,cdjAuGyuij<wzu6KuckHyw66hwIcI11u1HjkG6h7ych1zujHuyhzyk6,,yhI,G1kHzj/k,hy(IH6,kAzu1kcycGI,GIhw,HQAcjGIIhz6wHjz4ccuG,uyjyw,cuvwAHHGhjjWwh,w1Hu1Hcwc6ktGAK1,u,Hw1hzGkj,AHhI6GHkHzc1c,kGuI66Aw,zw1kcGHuIAGhwS,6GIccGIIkzuw6j,<II%GGuGjjwAcy1!AHHzhIjcwkAH16uyHIuwz1kGAy1AuAG^kGzzkI,uykucG6wzzIHkc1G1Ij6ukcj#yUczztIuGkwyc6OkcIGIu1j1wjww hu9IIuzjzwucu1yVhH,hIhzk1cy1j1wHhwhzHs,cu1uuuGyhcz,kI,wG1IuGjkjzh1hcH6uIc6wwAjyyHc,,yIw61wG,cRhchGkuHAhwcjuakIGHhu,jIwwh,1GAjHAuhzGkHAH1cuuHkhGz6x,yA1wIkGG16zA1Acb6HuIGcwAzk1Gc6zIIIjwwhjG16cA6,urccwz,Iy1ckGku66uwIjw11uGGkuAjAk5A=1zhkHuw1jHk6Az1I#6G1hGzjfu,wymhyGzH{zukkcyHjuwGIkwj16IcjyAIh6#jzjzyzcuGkuy6jw,,IAhA1GyujIjwhch1HhzGkuuzhkykI1,uyHwQ1zukjc,1hwGGH6czcyucjyyuHG,wkzw1,cG6jh1GhwkjH1jccchIkzywcj,1Acw61uGzGwA,k1jAH6Hucz}wk,y16u,69uwjwkGAG1AwHGaw6sckcAA1kujG6h,zI18AHyGhzGAkyjq}HczHIuHGkdyj61hcIywu16GwhjAyAA{6Huz6Iwu,kyrA6GjuIhck1A11jhA6dhBjykzwk1uuGGywjjykIAIy1RaGjhAzhyscAyzhzGukujyykc,Hhuk61Syjj6hchH(uHz,kGjuywAyGAu,6IwwcHy1Aj6AuhukkH,z1cIwG6hy,zk,Ai1wI1GGhjjhkhAhyHhjGchwzk1ycjy,uAGwkujGyGcAHkyh6H-Hjc6,ckHyu6j,wwjwywAG6GuA,jk{c6y1Ac6Aukjjk6,,1Iu(GGhG,zkAAjyWIHGzwIjwkkIyy6uhGIhwj11zchyAhw6Jkhjz8ccuykhG66!6jIykA1HzujzA,u,iyyAzjAuujukycjHHAI6Ih1cIkj,A1hhbGjhz,zkuAuyyycG,kI,Ab1I1yjhjGhG,jH1zAHyuuw6y6cj,y,cwGHu,6jXjjh1GAHHzucjunG,yHyA,6,uwcjkGccHGAh6whHIhkc,u1kuGw1h,,Akww,yGIjGAwk,zXHIzyc1HGkwyj6*,A(ywhw6GQjjA3kAmGHhc6ckIjk6}A666uI,wpj,GyzAAGkh>AzkzIcyuAk61h6cHkIkky1uz6GhA,A;+cjyzIcGukkAu26I6yIhI611Ajj1uckHJw16zGtju4kAyGjuh6I_h,1zIAjHAuhjy^z,zHcAuczhyz6k,,IH1I1z1hj,AkhcyyHuzz&hujwSykyy,h,Gw11jznjAcyhHz6HkhjcHuHjHyhG6,1kjwcGAGzjhG6hkk,HyAAc6HukcyUp,,yIAw6yhGAIkAchyuIH6zhc,ukkcky6uA6jhw,w4GcIyAIh63SH,AKcIcykhk661wjIyZAHHGw66Apy,S1HAzGIkH6k11,6yhAIHwh1jz11,AHhI#6,hzzcku,kHzI6z6hI,w(1czyjuA6hwD,HNz1Gyuhu6y16jASIAwH1yA6jkkjhyyAzHzwz6uHI,y16A,6Ih6z111,jHjAhzAhHj,HI,uHhIyAkh,zIkwAHyhIjzchh,6FHczycuwz,wyc6E,-Aywu16Gkc,G5hu1HHhI6cwujk1yusH,w,6w1y,G1cAAGhhwzH>z,cHjAk6kh6jA?j,wHwIGcHhAzhXfIHyhIczchk,k*6uyyIht6jwGc6(AIyH-uH6zkIcGWku1H6wy6Iww,1yzI6HAwhz53,,z1cAu61hzz61c,IH,I1GGhjzA1UcDG&IzzAhuj1syA6HyII6ww1I6}jIjyhhyzwwzczRuhzHyu66,=I,G11u1Hjwj6hzG,HHzIzHuwuzy1y,,,HAw61k1zj&A,hcGIHzHhcjw(IcyGyI,Gkhwj1JGIjHIIhzhwHcH/chyykhGjyw,cc?wk,HGuj6Akk1u1Hu6HcyH6kky,6yAIuHwk1zGGw,A1hIBGHkyzc1c,kGyI6GAhIjw1jcGHjIA,Iw3cppzucyhIkzyw6,AmIw1H1kGj:wA,h1CuwHzNh6u_1,,16u6HIhyz1kG,jHAwjG_kKzz1z,u66Iy6jwzzI1uc1jIIjGAhh,yNzczG,IuAzwyj6B,AhGyu1jGwjh1*hA.HHuzzzwucu1yu6H,uh6wi1,A1jIAHhyhzH1H,cGuIkGyw6z,j1,wH,IGjjjyzh1}cH6AIcukhkAy&kc,HIIwz6wG,wNAuhHcuHzjwc,hlkyGH6h,jtwwcy1GujHAhAzFO6cd1cucHkhzz6k,,IHwu6GGkGzA1Ac(6cIz6IhhzkyEc6jkIIGww1,zywcAGuu_z,wzjcruI1GHu6j,wIcH11AGHjuAjckSA91zucHuh1zyd6c%1IIkG1Gkzj1j,h6rI6GzwAzuz6cyHAI,6hkHj1y1cjjzIh6 wHcz:hcuGuuyjyw,A6gwIHjzujj,whhw1HAzHchwzjkyAG1,u_Hwh1zG:ccA1hhYGHk,zcku,kHGu,G,kuzw1zcGyjIAGhk{jHyHccGhIk6Gw6,,1ycwGyuGjywAcA1/I6GIucjcwkuw16A,HIwwz,kGAG1AuAGEkhzzpIAj1kh&G6whzIkwc1HzucGAkuj41hczycIuz1khj6y,cIGHu16Gwj,u1kAe6GuzjHwujk1yA6HwuIjIk1A61jAuHhwVjkkzcA1uk3Gykyz,UhAcy1h1Gj11zhN{cHGzuwGukujyyyc,ckIwj1kIjjyjchGhuHIwwc,uyHAyGzu,ukwwcw1GIcGjuhjhkH,A1cAuHkkyjuk,A,1wuwGG4hzA*kccyHhGGck1zkZyc6HA6jGwF9jG1ucAyhuSz6wIjcyuckGju66,wIjw1cAG6GuAjhk.,61zIcHwukjHk6uz1IuIG1RG,1kAcwy:u6Gz1uzuykAky6ucGIacj1,zcjHuhO69+Yjz&hcuykuyj6yyjIyIA161ujcKwhcy1GAz6juujGky,61,IhGuh1,Hkjck1hINGHw,,6kuAkyyuAG,hIzw#1c,yjhjGh^LjH>,ccHuuy6ykzj,z,cwGwuG,jknjhy1AHAuucjHwkIyAhA,Guuwc6kG&A1Ahh6ThHjjkcA&1kucG6n,zukwAHyGu,GAHkj?1HI1ycuwGklyj616cIGMhw6G&GjA11AMHHuzjc_6jkykA666uIcGk1cz1,AA6Ih#j,kz,c1uu1zch6,jkIAHy1IGGjwu,1lgIHyz1}GuhkjyS6IOyIhI61*GjjMuchG+hc6zkIju,AAy6yu,,Ikh,1yzAjASuhj6kHc,1uAu6uhyI1k,,I1wh16Phj,jkhAhyHwCGcwwI1vyIHy,xIGww1jG1cckyhhk6HkIjcUuckGGhz6,bIjwHHAGHjuAzkaH,HHjAc61ukzyk6,,HzAw6whG,,kA,kyCuH6whcjwkkAhy6h6GIk;,ceGIGyA+c6iwHjzycAHykhk66:6jIH,A1Gzh?6A9I,ty,AzHcuuj1/G,6HjAI6,h1zGkjcuH%I*zHhzjwku,kyyuj6+hI,k+1AwyjIAGhwlj6CzIzyuw/6ywjj,1IIGH1hz6jyIjhyhAHG,wG6uou,yGuA,HIuw,1k,,jHjAh6hhHhAkcAuHIIyzyh,,,kwkcyGuj6chh,yFHgAychcGkkGj,},I,ywu66GwjjAyhIzHHwH6c<cjkG,A6GAhI6wok,GyuAAHhh4j6cy,cHIAk6jh6z,kIA7H,IGzjhA,y%QcHyzIczyhk,k-6I,yIui61kG,GqAAkHO{16zWzjuHkIwH6hA6I<7,16jAjzAhzz/D6,zGGAuA1hyjj.z,IHII1G,hjzAkhI+6hIzzzhu,ufyuIy,uh6uw1cyJjAkyhu(6Hk,,HTuIwHyhA6,wIjwyHAkHjwA6h_6,H1zAcHuwAzy1y,,HIAwGHhGjjqy,hHyIHAHhc,ckkuyyAI,6hhwwj)GAwyAwhw,wH,,2ch=ykG6661,czawIHHGhI6A G,FGHIqHchk6k#H,6cuAIGwhjzGqA,AHhIE6MhzjI(G,kHkI6GuhIzw81IGHHIAzAw_cTCzukyuh16zw6cz-IIHH1uG6jkuAG1>uyHzy46uwk,yyjI6HIwwz1bc,j1AAhG*huzz1z,uHkIyGjh,jI1Hc1HjIju6hh,hLHuzG1IuzywyhI),IMywhH6uwjcjThwuHHuz6c7u,w1yuyH,w,6w1I,GycwuHhwwzHGc,c1uAk6Gwwz,1A,wHzIGGjhAjk=jcHGzIczwhkjyU6AAHjIwjywG,uvAchH?uHz8wcccJkuHH6uA6IkwcI1GIAHAw,zK1<,zyIudHkwkz6GG,I1wI1zGhwzA1Ac%GFIzjHhu,11Ic6GzIIzHw1jGZjAuHHuojywzcHZuckHyhjj6wIcw11IcHjuA6hmycy1zuAHuwczyk6,,1II,G1k1zj1I,hyyIH6zwuzu1ycyzzI,z,hw,H1kcjGjIh,jwHjz;cIuHjuyjyw,c,sw16HGwjzywhch1HuHHcHG6kFycE1,IwHwG6zG1G,AykujGHkHzc;P,kyyI6z,wuzw1wcGGGIA,Hwa,6b,ccGAIkzjw6j,VIIMuhuGjzwAcy1}AHHzhIzwwkAy16IhHIuwz1kGcW1AuAGQkHzzkI,uykuIG6wIzIHuc1G1IjjAw,jf1zczHIIucywyA61GcIG1u1jkwjkwbhIyGwuzjzwu,H1yA6H,wIc,k1A11jujHhlzzHt,cj1uuhGywAz,kI,wHHuAGjkczh16cHyzIc6wwGjyy6c,G-Iw61wGjj>uchGhuHjzwcjw!kIy6yu,zwwwhw1GuGHAkhjIkHcc1cyyHkwcz6y,yH1wuGGGMIzA,CcR6HIcGcwkzk1zc6HkIIjwkwjG1IcAHwuvIjwz,c1hckGzu6j,wI,I11IzGyuAjAkr,j1zAcHuwkjxk6A61IuIG1rAzjTucIy_h1GzkuzukkcyHjhkGIkhj1yjcjyAIhzywjjzyccu6yuy66w,jI16A161ujjAwh,y1HIzGkuujHky8a1,u,Hw%1zzkjcw1h1zGHwIzcUwcwyyhyG,yjzw:1cGGjujGhkhjHyHcc6zIkzGyjj,yccw,{uG6jwA,k11AH66ucj1wk,y16IAGzuw,1kGIg1AAhGsw6zjkcAh1kujG6h,zIkwA6yGhGGAkwjaY6czHcucGkkzj6yHcIGIu1zzk1jAyAAXjkuz6cwuck1cA666uIjIk1Aw1jIu6chD,1kzcw1uAkGywjjckIAhy1HyGjhAzh1yAkyzhcGukGjye6c,Hhuu61?6jjGychH3uH6zlrjuyuAy6zu,6hwwc11zAjGwuhA1kHAH1cIw6Ahy,yk,uy1wI1GGkjj,khAhyHhHGc6rzkyyAhy,h,GwkwjGzkcAHhuw6HkAjc,!ckGku6zAkzjwywAGHIuA6hk<AHyIAc6cukjkk6Iw1IuDG,hG,6kAwGyWIHGzwI^,kkI1y6dkGIhwj11zA*yAhh6_HAjzWccuykhc66-6jIywA1HzujzAkA,fyjAzjjuujukyI61uAI6yh1jzkjuh1hwd6GhzjhkuIAyy_zG,whjHn1I1yjIwGhw*jHyzhHyuhu6yNyj,G1cwGHuj6jF,jhzjAHHzuczwky,yHGA,cyuwz1kGccyGAhzEhHIhkc,u1kIyzeh,,,kwI1yGIcGAwhjw>HAAyc1cGkkkj6H,AEywh66G1IjAywAmzHk66c9.jkyzA6GkuI,wHu,GyuAAGwh}uGkzccyjAk6jh6,,kIcIy1uzGuhA,ATncjyzIcGukkjhi6I6yIhI611Ajj1uAhHFw16z#ujuWkAyGjhA6I9h,1HjAjHAuhjykw,zHcAuzyhyz6k,,IIGI1z1hj,AkhcyyHuz6zhu,G y1iy,h,Gw11,zYjAkyhyz6HkIjc1wIAHywy6,Hjjw11AG6jhk6hPh,HHHAczzukjGey,,HcAwzzhGzjkAckH6IHz6hc,1kkcyy6uAzuhwc1!Gu,yAIh6Dk6,yKcIhykhj66w,jIXwAAHGwG6Axw,K16AzGcw16kWj,6HHAI6Ih1jz3w,AHAI3,khzzckuAky,I6z6hI,I&1IwyjuuGwwdc1_zAwyuIk6ykjIhPIIhH1yh6jwAjhyyIGHzwc6utG,y16A,GhwBz116,jjcAhG9hHzzlA,uHuIyzzh,zhkwA1HhIj6khhI1+HIHycuw6Gwycym,hyywu16G-jcXLhIhHHwH6czvjkHyyhH,w,6w#w,GjkAAGhhGzH?I,ccrAk6kh6c,Oc,wHzIGjyhAAuOrA6HcIczchkjzd6c,yIhwz1wGcGJAIAH#kc6zkI,6EkuJH61k6Iww,1yzu1HAwuz_GA,z1cAu61wwz61,,Ij6I1GGhjzAc_cVGnIzzchuj1qyA6ujIIzHw1h1-jIjyhk^z6wz,w>u16Hyhu6,1Icy11IcHjkw6hyA,HGzAhHuwGzy*c,,HyAwz1wuzj1j,hH6IH6Ghc,uNHcyGyI,z,hwck9GchHhIhzkwHjwLcchykuc66w,hG7wA1HGh,6Awh,&1HkkHcuu6k%6,61,AIHwyAzGkj,AykI2GHhzzc66,kyyI66uhIzw(1cG,TIAGhw8,1VzccyuIkAIw6j,JIAhH1uG6jwAhz1lAHHzhc6uwk,y16kkHIwIz11H,j1IAhjdkXzz{k,uHtIy61h,jI1jc1HAIjzAhhjh4HA,ywIuzuwyjc#,cIyww1zHwjcj{hIhHHku6ckw,I1yuHH,ww6wk1,GycAkHhwkzH1c,c1uAk6Gw1z,1I,wGGIGGjhAzh1,cHGHIczuhkjG&6A,GdIwzjwGkynAIAHxkHzwwccy.kv,H6hh6I(OcG1GuGHA1cz}kH,zHcI1Hkwkz616,IG,I16zhkzA1IcBG,IzGchu,1Gjc6GjIIzHw1jGKjAuGyurjHwzjI_uckHyhjjBwIck11IcHjuA6hkNcH1zuzHuk=zykj,,yIu6G1wAzj16,hHhIH6,whzu1ucyj1I,GIhwc11ycjGjIhzhwHAl8cAwj1uyjHw,c!^wA1HGhczGwhck1HekHcuu6kOGA11,uIHwwzzGkj,AykuhGHkjzc6I,kyyI6G,wzzw1wcGG,IAGkw9,H1yccGyIkcHw6c6=II&G1uGjGwAIG1 AHHzwcAywkck16u6HIGyz11Gc,1AuAGVkZzzz1,uykujG6wwzIjyc1G1IjjAwHj31ccz6GIuAHwy,jyycIGIu16,wjjAUhu:Gjuzjzwucu1yhIH,hhz,k1Ay1j)1Hhh)zH3,ky1uuwGyyuz,kI,wHHuwGjkAzh6jcHyzIcGuwIjyyyc,GIIw6HwG,j9hchGzuHIHwcccRkhyHAu,j1wwkj1GIwHAkhj6kHcu1cw%Hkluz6y,Aq1wujGGwIzA1GcUGH:IGckczk1,c6HzIIzwwzjGyGcAGAuD,1wzjk1kck61u66wwIjk11AIHjuAIzk#,H1zIAHuukzyk6w11IAwG1wjzjkA,hy(ZuGzhczu11cyy6I,GIHjj1LGcjHwIh6-wHjzzycuykuyzHw,jIZwA1,huj6Awh,k1HAzHcuuI,ky,61,IIHwh1zGkjw11huhGHk6zckh,k6yIzG,kyzw1ycGGkIA6hwujH1hccGuIk6kw6,ACucwGwuG6IwAjh1/uHGIucjcwkck16hwHIw_zckGA61Ah8GnhHzzpIc61kh1G6kIzIkwc1HzHIGAkhj/yzczycIuGkwuj6y6cIGwu16zwj,A1yAvGAuzhGwucu1yIjGuuIjIk1ht1jAAHhkJzIkzAz1uuuGykkz,JhAyy1hyGjyczh:?cHH,hGGukwjy1Ac,yIIwzHl6jjyAchHHuH6zwc,w1GAy6zu,jYww,11GAjHIuhjhkHAj1cAwHkwyjjk,Ay1wuuGGkGzATkA6yHhHGcy,zkMyc6G,uHGwkwjGyGcA6ju?z6bHjcyAckGju66,wIcM6zAG6zuAhIkD,H1zII6yuk,yk6ch1IAwG1wzjzkAAwyfyhGzhczukkAwy6h6GIkkj17zcjHAuy62kAjzGAcuGuuyzj:sjIyIA1zIuj6AwhA%1kAz6zuujukykc1,uIuzh1,1kjAj1h1,GHwzw1kuAzyyycG,k,zw1HAzyjhjGhwGjHZzccGuhu6yDyj,y,cwzjuGzcv1jhywAH,huc6uwkcGycA,6AuwI,kG,j1AIkGzhH,zkcwH1kIyG6h,jGkwAwyGhjGAhkjd1HcAychHGkysj6y6cI6whh6GkwjAH,At6kuzzIkjjkykA6HuuI6wk1AGH5AA6Ah:,dkzIk1uu16yh6,zkIw6y1IGGjwujz&{Iyyz1PGuhkjy1jAcyIhw61HIjjVAchHd6z6z(zjuykAyHju,zIsu,1yIAjcjuhjhkHIzykAu6zhycck,Au1ww1G6hj,1khAGyHuhGcfuj1_yAhy,uuGwHujG1jA6yhh,6Htzjc1cckGGwy6,&,jw16AGHjuAjhkj,HHHAc6cukc,k6cAIwAw6khG,AkA,hy%u6GIhc,IkkI6y6I,GIkqjGPGIjyAwe6}wHjzocchykhk66p,jI14A1GGhu6AW6,^,wAz6zuu,kkj,6H_AIAGh1jckjcu1kIez7hzI6ku,kyyh6GkhI,IY1I1yjwGGhky,wpzIjyuG%6yw6j,1hA1H1wH6jkkjh1-AHG,hA6usk,y1jA,HIuwjHs1,jHIAh66hHzzkc,uHAIyzyh,,ukwcHyGuj6whh,,)HI1ychcGkkGwyB,I,ywfh6GwjjAyhA6HHwH6cpcjkHuA6GAw66wMk,GyuAAHhh/j6g,,cHIAkAIh6z,kIA?HRIGzjhA,y%:cHyzuI6whkcH_6AwyIIw61wGjwbAIAH)wG6zwIju1kyHH6wK6Iyk,1H1AjGuw2zP18,z6oAuHkhy,6Wk,IHII1z1hjhwkhI8y,Izzzhu,u:ykhy,uIzIw1,u3jXwyhhh6H1z,zFuIjHyk86,1wjwyHIIHjwj6hkG,H1zAc6u&czy1y,,H,AwjjhGjcRc,hHwIHchhczukkAGHkI,zAhwu,oGcjyAukz,wHcz5ckHykuy66w,cH5wIwHGwj6Awk,RyHAuHcwG6kGk,6H6AIzww1zG;k,AcHIT6AhzccA1,kHAI6juhIA,n1uGG1IAz6we,jKzI#yuhkzcw6c6=IIzH1hy6jnAcc1NuPHzwz6u1h,y1jhAHIwhz1kj,j1AAhG/yAzz1z,uHwIyGzh,cIa6c1HhIj6IhhuARHAzHhIuz,wyc6},cuywhH6zwjcjQhAGHHuz6cvu,j1yuyH,w,6wyj,GycIyHhwwzHSI,c1uAk6Gh,z,1A,wHzIGGjhAjkYucHGzIcz1hkjy^6c,GzIwzwwGcjMAckHMhH6Awcc6{k1hH6w66I1wcy1GuoHAHHz-V,,zyIINHkwkz6GG,I1wI1zGwGzA1AcMGZIzjHhu,11Ic6GzII,3w1jG)jAujyuJjywz,wmuckHyhjj6wIcw11IcHjuA6h!ycc1zuAHuwGzyk6,,1IIwG1k1zj1I,hyyIH6zwHzu1,cyGSI,z,hw,H1hcjGjIhcuwHjz-cIuG6uyjyw,c,{wuIHGhccuwhcw1HIIHcuu6kOG,h1,uAHwHzzGkj,AykIcGHkzzc11,kyyI66Aw,zwyycG,uIAGhwWjHLhccGcIkjHw6jASIAwG,uGjdwAIw1-u^HzhIzkwkck16hkHIuwz11Guh1AuAGXkozzzh,uHkIzG6k6zI1Ic1,uIj6Awzj+1uczchIuzuwyA611cIGju1jkwjuoNhIyHjuzjzwu,H1yA6H,wIj1k1A11jujHh^zzHO,cj1uuhGyyuz,kI,wHH1hGjkczh6jcHyzIc6wwkjyy6c,,yIw61wGjj_wchGhuHjzwcjw%kIyGnu,jGwwhw1GuGHAkhjWkHck1cyyHkwcz6y,,w1wuAGG+IzA,9cf6Hu,Gck6zk1zc6HkIIzwHzjGyGcAGzuLz1wzccyKckGku6j6wIAu11AAGAuAjuk*,A1zAAHuh1zyk6w11IAwG1kfzjkA,hyfbuGzhczu_:cyy6I,GIH6j1y1cjGcIh61wHAz1GcuGcuyzzw,uyTwI1G1ujjGwhAZ1HAjHchwjIkyAy1,AkHwh1zG1jcj1huhGHkHzcHy,kHGIIG,kczw1zcGyjIA6kkjjHy6ccG1Ik6yw6,A1jcw61uGzuwAjh1-AHGzucjcwkAy16AAHIhwjukGA11Ay,G4kOzzyccH1kuuG6HwzI1Hc1Hzu-GAkAjpGkczycIuzkkwj6y6cIGIu1jwwj,u1cA<61uzcwwujk1yIjjhuIjhk1cc1jAAHhwyz6kzAc1uuGGyh6z,thchy1h6GjwkzhT=cHyzuzGukujyyzc,yhIwz1kjjjyGchGIuHjHwc,wyzAy6yu,Ajww,11Guj6yuhjhkHAH1chzHkwGAjk,Ac1wuzGGhjzAikAhyHh6GcG1zkZyc6HAhyGwM1jG1ucAyhu}z6kyjcyhckcju66,wIjwywAG6GuAjwkO,61zIcGcukjuk6uc1IuIG1wzjckAAAy3wAGzhczu1kh,y6h6GIkIj1j,cjGAh66*S;jzyzcucjuyz6kkjIy,A1A,ujjjwhI&1jAz6Huu,Akyuy1,IhG6h1,1kj,w1hI3GHkzjIkuAuyyhyG,11zw1HAhyjh,GhHjjHbzccHwuu6y=Gj,zycwH1uGzck&jhHMAH,huc6uwk,yyuA,6,uw,1kG,c1AIh6;hH,*kcwc1kukG6B,zkkwAIyGwIGAkjjnHHccychzGkkzj61kcIHGhG6G2GjA1yAJHGuz6IwujkzIA6H,uIj,k1,G1jAAczh{zHkz,I1uAkGywjwkkIAIy1y1GjhAzhyBw,yzhzGukcjy1Hc,GIh661%1jjyjch6wuHz,6GjuywAyAyu,6Iww,1zIAj6juhjkkH,j1chuGzhy,ik,cu1wyhGGwjjAkhAIyHhzGchhzk1Gcky,h,Gww6jGbjcAGhuI6HVHjcycckz,u6zAd1jwykAGGuuA6hkCc61hAc6Iukjjk6,,1IuNGhhG,jkAAyy=IHGzhcjykkAky6h,GIwoj11GAGyAh,6:6wjzyzcu6kuj66>HjIjGA1Gcujzuku,>HMAz,6uu6kkyA6y1AI6Ih1,1kjIG1huyGGhz,jkuAGyyI6G,whIH=1IHyjHHGhwBjH1,I6yuhk6ykAj,EIcwGHhA6jlIjhj6AHHzuc6uW,,yHyA,6uuwzHkGcj1kAh6IhHAjkcAc1kuG61h,,,kwu,yGIjGAkh,G&HIHychcGk6zj6y,yHywhw6G*GjAj6AlGHuA6cRjjk,zA666uI,wkw,GHyAAz,hduwkzcIHHAk6kh6zukI,wy1hGGhhA,A4sI)yzwkGuk1,,*6IzyI1661wGjj1uIHHbwy6zGxju=kAyGjuh6IRw,1zIAjHAuhzv,z,zHzAu6khyzjk,cIIhI16khjujkhAhyHwz6khu,Aay.Iy,hyGw11jj>jI6yhkG6HzcjcHuAAHyw!6,kkjwy,AGzjhI6hru,HyjAc,6ukjyRj,,HjAwz1hGzjkAckycIHzHhcjCkkcyy6h,6khw,w.GIGyAkH6bk6II<cIAykhj66w,jIy_A6HGwz6AQy,{1HAzGIhc6k1y,6yhAIHwh1zG-G,AHAI zHhzzIkuckHyI6zGhIwci1I1yjuuzGwfcdezw6yuIk6yB6,H&IIIH1w16j1Gjhyyw6Hzwj6uk3,y16A,Ghhwz11H,jykAhGThHj,my,uHkIyIjh,zIkwAHy,IjzIhh,6>HczycIuz,wycyx,IuywuH6Gkjc1mhIuHHw16cUcjkyGAcH,w,6wHh,G1jAA6hhjzH1H,cHcAkzuh6jA+c,wHkIG6uhAzhbFA6HuIczIhk,AQ6c,yIhDzzwGcjVAIyHNuH6zkI,k!kuHH6wy6Iww,11GAIHAwAz#1G,z1IAuGkhAz61G,I6kI1z1hjjuz,c>GdIz,)huzk&yI6zwIIzIw1c1=jFwyhwszAwzczSuIuHyyh6,kI,H11u}HjHw6hrh,HGzIIHuwIzyyT,,zGAw6Hh6zj1j,hyGIHGzhc,u)1cyGyI,z,hwAj!GAcHGIhzwwHuh8ccuykhGIww,cA5wk,HGuj6Akk,H1HuzHcyH6kky,61,IuHwwwzG1j,A1kI!6Hk1zc1,,kjkI6z6hIcw&ycGGHIAuHwF,AdzucHjIkzww6AuJIy1H1kGzGwAcc1ZIjHzw(6u-khj16u6HIwAz15y,jHAIzGiklzz1z,uGhIyGIwIzI1hc1ywIjGIhhjy2Hcz,yIuGkwyc1R,cIywu1AhwjjAPhA1HHuz6cwuA,1yuyH,wA6wky,G1jujHhh=zHkj,c1uAkGhh6z,kI,ky1IGGjhujGapcHyzkhI16ywzjjxjAGuy61wGjjsA1bH uH6zwcjuvkAy66k66Iww,11GAjHIuhz}kG,z1cAuG1hyzzk,,IHII1GGhjzIkhc.yHIzGchuzkLyc,y,IIGww1j6ijcAykuj6Hwzjczy/,A6ywIA6jwH1zAGHjuA6h6k,H1zAcHuukzyk6I,ycAwG1hGzAkA,ky4IHGchczukkcHy6I,GItw,u<GcjyAuB63wGjzdcIcykuy66wcjIPwA1HGuj6Awh,N1zAzHcuuz1kc,61,AIcGHAhjz/wu,c16GHhjzckucGyyI6G,hIhh81cGyjIAGhwRjHHzAuyuIk6ywzj,ohcwH1hj6jwAjh11AHHzuc,uk,,y16A,HuuwzGkG,jy6AhGnhHzjkc,u1kIyG6h,zIkwcIyGIjGAhk,6rHczycEyI,6%hcGwXGACHGu,yAwyjzFucj16IkykwIjH1,AIuhz6k1,G1jkAAcH1hu6IkI,kI1Gzh6z,kIk6,yy1Auhujz*9cHyzkuIGG7wGzzkIckyHuHwzjh-AchHgJIIj6jwUjI&jHjhH6Iww,1z51zchywuuGHkyjAy6AGGGzjEj,I1wI1cjHuhzzykHcj1kI,GAuyjykh,hyhIHwHjI{jcAyhXGI,6cwhjw&wAIuj6uwIjw11k,AzHcucky,k1zAcHuyyujz1whjwyyAAGHh6Hukuc,uAGzhczu11hcy6I,GIw1j1QGcjGAuk6(wHjz%ccuH1uyj6k6jI!wA1HGujzqwhAFyAAzHcuu6kky,c1,uI6oh1zGkj,A1hI1GHw,zAkuc1yyIwG,hIzw&1cAyjIAGhwyjH>,ccGuGj6yw6j,=IcwHzuGjjz4jh1lAHHzuczzwkAyycA,HIuwz1kG,k1AAhG,hHzzkc,w1kIHG6wAjhkwc1yGIAGAhhj(yHAwycIuGkwyj6qAcIGwhu6GwjjA<hAoHcuzjcXHjk1yA6H,uIzyk1AGGGAAHhhSzHkz,A1uu1Gjh6zAkIcjy1IGGjhAjyxncHyzIIGuw1jyy6A,yIIw61wGjj.kch6xuG6zwcju_kAyHuu,jIkI,11GAjHAuhz,kH,z1AAuHkhyzjk,,u1wI1G6hjzAkhc1yHIzGchuzk;yc6y,uGGww1jGxccwyhu^6HHAhw,G1HHGuI6,wIjwz1e6AcykuIzG,6yHAcHuukA6zAkA,h1HAkG,AA6IkA,6y6AjhI,ykkcyy6kkIZ6yu1jPk,AHyyuyycw,j,TcjyyAIz6Ahuj116ccHc6ukz,s1HAzc{HIh16hk,,,PuA1HzzzBG,A1hI),zHjhzz1F1,HW,IhHhh,zzkjcIIu61w?jHNzwj,hyuIjwjjk7IcwH11GuHGIkzj616AcuIzYwk,y16/kcuHIuz<1,j1AAhGs13zzkc,u1kIyG6h,jh1cc1y6Ij6HhhjNYHIzHIIu6RwyjzJ,AHyww1zjwjjIXhA1HHuA6ckwc,1yA,H,hG6wk1,GHjuzHhhHzHkc,cy1AkzyhIz,kw,wyGIGGAhA,h,,cHycIcGkhkj,U6I,,uIw6GwGjA_AckHCuHzHwcjhskA6H6uA6I)w,u1GA,HAuwz8kA,zycI6Hkhyz6kc,I1kI1GGwkzAkhceyGIzGchuzk&yc6y,II6Gw1jGRjcuywuE6HwzAGRwAzHyu66,G1wj,GChccHzuyka,H1,AAHuukzyyy,A1kAwG1hGII6kK6cGIHGjwIzukkcyy6yIGIhwj1DGcjyAIhjtzIjz^ccuykuy6Aw,A1GkA1HGujzHwh,11HAAHchtuyky,61,IGHwhyzGkjkh1hIvGHhzzcku,k6ywGG,hIzwEzcGy,IAGh6HjH(zccyhIk6yw6A,HAcwH1uG6cwA,#1#Ajccuc6uwkcH16AcHIuwhGkG,j1AAhGghHzz1c1G1kIyG6h,zI#Hc1GAk,GAhhjo1GczyAIu6QwyjczIcIywu1z6wjjIRhA.Azuz6cwujk1yA6H,kI,hk1,G1jAkHhhGzHkzku1uAkGyhzz,kI,w61wHGjhAzhBycHyuIcGukujyx6c,yuIw61wGjj^AchH5uHzIwcju{kAGHhu,6Iwwuwj61AAhHcu6zzkc1IIyHkhyz6HIkA,Ay;IzYAzux1cgyHIzcuG6wczjcjyuIIGww1hIz,_jcyuy6Awzjc+uk6cjy,uu6AkTGGAzGHuA6hkVhj,,aAAAGyhy6zkA,s1uAGGhzcN6,hy=IHcyG,ukzLkwj6yGAu6jhzjzccywIh6YwHuAj,!IcIuG6,w,jI}w<kccHw6ukH,a1HAz,cyhh16jkH,uAhGHh1zGkjuu,c1kAzG1zI9,,kyyI6cIGrhAzzkjcIyHIuGwI6j611yuu(6Gwwj,DIcwjGyuI,6uhwjH1jcIHI6wkz,y16A,juHyh>zzk6jk1yGyhAzzkc,uzk1wAz61hWjmBGyzIkGAhhj!Gu!GcuH)I&69h,zhchHHu16Gwjuhj6?1AHyI6Ikyjk1yA6,Syuuu66kEjuAu6yhJzHkzuk,61hAz1Ih1zhe1c6kjAkGHhczGwy,ukuI,G-w6j,cAykIw61wGuIzk16AGLI6zwcjuy1vhH6u,6Ikk,11GAj6A66zSkH,z1cAuG,hyjj6;,I1kI16ohjzAkhcVAHIzGchuj1Nycjy,uhc6w1j6Zjcwyhu86H_z,j<uA?Hyuz6,kIjwH1I6HjuI6hk1,H1hAc6uh1zykz,,1uAwGkhG,j81,hy1IHGjhc,!kkAGy,I,Gwhwjc2GcjyAIh6kwHjjVcckykuG66>,9HTwAyHGu,6AJ#,}yHGjHcuu6kku,61cAI6lwGzGk,,Ay1I4GHhz,c^k,kyHI6GchIjw)1IGy,IAGwwKjGizA.yuhkzkw6jcsIckH1hy6j9A,61#AGHzuA6uXH,yyjAcHIh1z1ku,j1AAhG3h6zzkA,uyyIyGjh,,IYyc1y6IjGIhh,H;HAzGJIuGkwy,Gt,cuywhHz1wjjIVhAyHHuz6c>ucz1yAzH,uu6wkA,G1jusHhhyzHkz,c1uAkzyk1z,kh,wyHIG6uhAzh1ycHycIcGhhkjy(6I,GHIw6GwGjAaAIyH.uHz1wc,&2kAGH6u,6I+w7c1GAIHAh1z98,,z1cHkHkhHz6ku,IyNI16GjzzAkhcvy6IzGAhuzkj6c6ycII61w1jGqjIAI6uC6GwzjA<uIGHyh6kcwIjw11AAHjuI6hVycc1zAAHuhHzyk6,,HIu,G1h6zjkI,hHqIHzzhwzuFscyyzI,6yhwc11ccjyIIh61wH,GWcIuGuuy6zw,juewI6HGhc6uwh,H1HAwHcuu6kky1,1,AuHwhGzGkc,AHhH,GHhjzckh,kH6I6j,LAzwBycGHcIA6,w=,6GhccyhIk6zw6j,ZIIwG6uG6,wAjw14IHHzwczcwk,H16AcHIh6z11Gcj1AAwGqhGzz5j,uHkI,G6hczIkkc1H,Ij6uk1ja4zczH1IuGkwyj61zcIyku16jwjju9hu&uPuz6Awu,K1yI,H,hhz6k1,z1jAkHhhdzH1zAG1uI1Gyhjz,eG,wy1IAGjhhzhXGcHyzIczuw1jys,c,ywIwzzwGjjGschHGuH6Iwcju^kuyGwu,6kww,61GIuHAuhzykH,I1cIyHkhyz61,,k1wIzGGhuzA1yc7yHhyGchwzkUjc6yAII6wkwjG7,cAH}uV66wz,I1AckHHu66uwIjw11uG,6uA6wk(,G1zIcHuwkzwk6,c1IAkG1hIzj1AcAy(IGGzhAzu hcyG6h8GIhkj1)6cjHwIhzykyjz*ucuHjuy66w,jIy;A1H6uj6hwh,y1HuzG{uuzdky,z1,IwHw)1cHkj,I1hI1GHwHzckuAuyyI6G,huzw/1cGyjIAGhwijHOcccyuIk6yw6jA1ycwH1uGAh6HkQjc+6Ayyw6uk{,j16A,HIuwh_kG,j1AAhG/hHzzyccw1kIyG6hAzI71c1yGhyGAhhj;}GczycIujkwGj6_,cIHXu166wjjA1zAmHHuz6Awujk1yA6H,uI6wk1cA1jAAHhhyzjkz,c1u=HI1GGhGkhcyy1IGGjyhhzjAk,y,u3GuhkjyGzkucAH-IkGchuauADHvuH6z6jw1,zAGHcu,6Iwwh6jc1kAwukz,kH,z1ckcAMG6h,zGkTc1yGGzwyzAkhc%zky6AuHhhI6yp1,cHGIH6Hjz1(cAyhufczGwhAjwq:c6HcIh6h,O1jAGHjuAAh61k6jI1jIih1zck6,,1IqGAzHjhIzckk6HI66chczukkw6cAyAI1HkhGzcwIcu1wIw6zwzzA}wcGHfI,z1jh1GA1HGujAyGwwwjj1ycwuwzjky,61,kGAuGGh,6,k,,!16G6hhzcku,kjyy1Ac6GhHjHOjycukGhw.jHGurycAyHc,GwwAjw1yjGyuu{6zw16kJcjcH6Ihzyk61jAuHIuwz1Hzw,,z1cGyh,zzkc,ujy1AAzG,h=W_chyGIjGAH1wyzG2GcuyuI#6GhAjzkwAjuH6AwjjA+hwHAyHyu,6wIy1GAcH,uI6w6,w6,G:kHhh1z6l6,c1uAkc6HAhGzBk1c61hIzG,usj/kI,IyII1yAjy36c,Hhyc61wGjj1jchH!uHjzj1junkAyH6u,6kwwcHzuAjHIuhjzkH,z1cAuIkhyz6k,,h1wIHGGwcI1khc1yHuAGchuzkyyA1y,IuGwwyjG16cAGhh66Hwjjc<hckHcu6j,kzjw1yAGH,uAz6krAH1uAcHhukzHk6cj1IuQGIhGzAkA,wyTIHGzhczkkkcHy6IIGIwsj1yG1kyAIw6ZwGjz16cuHkzH66w,jI1jA1H6ujzuK6,(1GAzGhuu6kkyA6HHAIHkh1z6kjc,1hh^6hhzzAkucvyyIuG,kIjj{1c6yjIIGhw,jHyzcuyuu*6ywzj,1AcwGHhc6jwhjh11AHHzuc6uk1,y1zA,HwuwzHkGAjykAhG1hHzjkcc,1kuyGhh,zIkwcGyGI,GAwk,A2HcjycukGkwyj6y,Iyywuy6Gw,jA11AXHHu,6cwwjk1yA6H,uIjw{y,G1cAAHkh{z,kz,cyHAkG6h6zckI,wy1hG6khAj*{.czyzIwGuhk,k%6cuyIu+61wGjjyAy6H>uj6zwhju1GAyH6yh6Iwk,11,AjHuuhj Rc,z1cAu6yhyzzk,,Iy,I1G6hjzhkhc-yHhz6jhujO=yczy,u4Gwk1jhOjcAyhhy6Hwjjc!uA,Hyuz6,wwjw11AG6jh16hk1,H1jAcG1ukjycz,,1IAwGuhGz,kAcky1IHGjhc,_kkcyy6h,6jhwjyrGc,yAuI6RFH,GxcchykuH66wkjIywAwHGu,6Aww,S1IAz6cwy6kkH,61cAIGhh1jz1H,Ay9IFGGhzzcku,kI6I6GchIj1}1czyjhAh6wbjG3zcAyuuI6y16Aj4IckH1h66jkAjhyywAHzuA6uMH,y16A,6IwIz1k6,j1IAhGwhH,z1z,uyQIyGzh,jykwI1HyIjGIhhj1qHcwychu64wyjz+,cuywhQ6Gkc,uvhAHHHuj6cwujk1yAcH,uu6wkG,G1cAA6h6hzHkj,c1hAkGwh6jA+z,wyHIG61hAzhE{IHHGIcGwhkjG86cuyIIw6GwGjA.AA1HCuH6z3ccGrkA6H6uI6IkH,11GhhHAh1z:k,,z1cAu6khAz6ku,IyyI1GchjzAZGc(y,IzGkhuzk%yI6H6II6Hw1jcOjckyhubzAwzjI2uAGHyuj6,kIc,11A6Hjuu6hky,Hy,AIHuhVzy&c,,1IAwz1yyzjkI,hy1IH6Ghc,uUccyyzI,Guhwj,OGIjHIIh61wHjjvcAGykwyzyw,jubwAyHGhz6Akk,A1HAcHcuh6kky,61,uyHwhyzGkA,A1kI)zHkHzckh,kyHI66GhIcwHncGy,IA6Hw2,,VzccGcIk6yw6jc+IcwH1uG6jwAjh1!A,Hzuc6uk1,u16A,HI16uzz,hAjk1kIzHuuc6w,wywIyG6h,IkzHkh,cyjIcGkwG6zkIcIHyI,G6hAdAAyywu16GHjwzzwBHc,xkIhww,j1yA6H,1kuH6hwc,j1cAkGGz6kA,c1uAkAcHzh6z)cjy1IGGjwuhk^OcHyzIwGuhkjyy6AhyIIw61wGjj^IchGyu66zwIju11AyH6u,6Iky,11GAjHuuhzykHAzyjAuHkhyz6k,,k1wuH6chjzukhc6yHIzGckuj6+ycjy,IhGwwGjGvjuHyhu(6Hw,jc5hckHywy6,wIjw1yAGHjuA6hkU,H1zAcHkukzyk6,,1II<G,hGzjkAwH,cyzAkHIh,zGcyyzIhGIhwj1aGYzyAIh6ewHjz:ccu6khu66w,jI19A1H6uj6Akj,S1HAzHAuu6kkyI6yzAIHwh1zzkj,h1hIDGwhzzckuc!yyI6G,hIzwN1cGyjIA");local h=0;t.xPscMAqQ(function()t.GvscGVVd()h=h+1 end)local function e(n,e)if e then return h end;h=n+h;end local n,h,y=j(0,j,e,f,t.TojihShC);local function c()local n,h=t.TojihShC(f,e(1,3),e(5,6)+2);e(2);return(h*256)+n;end;local s=true;local s=0 local function p()local e=h();local h=h();local k=1;local u=(n(h,1,20)*(2^32))+e;local e=n(h,21,31);local h=((-1)^n(h,32));if(e==0)then if(u==s)then return h*0;else e=1;k=0;end;elseif(e==2047)then return(u==0)and(h*(1/0))or(h*(0/0));end;return t.rEflHrqo(h,e-1023)*(k+(u/(2^52)));end;local a=h;local function o(h)local n;if(not h)then h=a();if(h==0)then return'';end;end;n=t.JXU_gftp(f,e(1,3),e(5,6)+h-1);e(h)local e=""for h=(1+s),#n do e=e..t.JXU_gftp(n,h,h)end return e;end;local a=#t.TsgyMssZ(l('\49.\48'))~=1 local e=h;local function he(...)return{...},t.hjtXyrkK('#',...)end local function ee()local s={};local f={};local e={};local l={s,f,nil,e};local e=h()local d={}for u=1,e do local n=y();local h;if(n==0)then h=(y()~=#{});elseif(n==1)then local e=p();if a and t.wdYAFjMz(t.TsgyMssZ(e),'.(\48+)$')then e=t.Md_YTPkJ(e);end h=e;elseif(n==2)then h=o();end;d[u]=h;end;for t=1,h()do local e=y();if(n(e,1,1)==0)then local j=n(e,2,3);local y=n(e,4,6);local e={c(),c(),nil,nil};if(j==0)then e[k]=c();e[z]=c();elseif(j==#{1})then e[k]=h();elseif(j==r[2])then e[k]=h()-(2^16)elseif(j==r[3])then e[k]=h()-(2^16)e[z]=c();end;if(n(y,1,1)==1)then e[u]=d[e[u]]end if(n(y,2,2)==1)then e[k]=d[e[k]]end if(n(y,3,3)==1)then e[z]=d[e[z]]end s[t]=e;end end;for e=1,h()do f[e-(#{1})]=ee();end;l[3]=y();return l;end;local function m(n,h,e)local u=h;local u=e;return l(t.wdYAFjMz(t.wdYAFjMz(({t.xPscMAqQ(n)})[2],h),e))end local function a(p,l,y)local function ue(...)local c,s,f,ee,ne,h,m,g,_,r,o,n;local e=0;while-1<e do if 2>=e then if e>0 then if-3<=e then repeat if e<2 then f=j(6,37,3,28,p);ne=he ee=0;break;end;h=-41;m=-1;until true;else h=-41;m=-1;end else c=j(6,91,1,85,p);s=j(6,62,2,31,p);end else if e>4 then if 3<e then repeat if e~=5 then e=-2;break;end;n=j(7);until true;else e=-2;end else if e~=3 then r=t.hjtXyrkK('#',...)-1;o={};else g={};_={...};end end end e=e+1;end;for e=0,r do if(e>=f)then g[e-f]=_[e+1];else n[e]=_[e+1];end;end;local e=r-f+1 local e;local j;local function f(...)while true do end end while true do if h<-40 then h=h+42 end e=c[h];j=e[b];if j>=83 then if 124<=j then if j<145 then if j<134 then if 128>=j then if 125>=j then if j>123 then for t=23,98 do if 125~=j then local l,a,s,r,f,j,t;for j=0,6 do if 2>=j then if 1<=j then if 2==j then n[e[u]][e[k]]=n[e[z]];h=h+1;e=c[h];else t=e[u]n[t]=n[t](d(n,t+1,e[k]))h=h+1;e=c[h];end else j=0;while j>-1 do if 2>=j then if j<1 then l=e;else if 0<=j then for e=47,82 do if 2>j then a=u;break;end;s=k;break;end;else s=k;end end else if j<=4 then if 4==j then f=l[a];else r=l[s];end else if 1<=j then for e=48,85 do if 5<j then j=-2;break;end;n(f,r);break;end;else n(f,r);end end end j=j+1 end h=h+1;e=c[h];end else if 5<=j then if j>=3 then repeat if j~=6 then n(e[u],e[k]);h=h+1;e=c[h];break;end;n(e[u],e[k]);until true;else n(e[u],e[k]);h=h+1;e=c[h];end else if 4==j then n[e[u]]=n[e[k]][e[z]];h=h+1;e=c[h];else n[e[u]]=y[e[k]];h=h+1;e=c[h];end end end end break;end;for j=0,6 do if j>=3 then if j<5 then if j>=-1 then repeat if 4>j then n[e[u]][e[k]]=e[z];h=h+1;e=c[h];break;end;n[e[u]][e[k]]=n[e[z]];h=h+1;e=c[h];until true;else n[e[u]][e[k]]=e[z];h=h+1;e=c[h];end else if j>=2 then repeat if 6>j then n[e[u]]=y[e[k]];h=h+1;e=c[h];break;end;n[e[u]]=n[e[k]][e[z]];until true;else n[e[u]]=n[e[k]][e[z]];end end else if 1>j then n[e[u]][e[k]]=e[z];h=h+1;e=c[h];else if 2>j then n[e[u]][e[k]]=e[z];h=h+1;e=c[h];else n[e[u]][e[k]]=e[z];h=h+1;e=c[h];end end end end break;end;else for j=0,6 do if j>=3 then if j<5 then if j>=-1 then repeat if 4>j then n[e[u]][e[k]]=e[z];h=h+1;e=c[h];break;end;n[e[u]][e[k]]=n[e[z]];h=h+1;e=c[h];until true;else n[e[u]][e[k]]=e[z];h=h+1;e=c[h];end else if j>=2 then repeat if 6>j then n[e[u]]=y[e[k]];h=h+1;e=c[h];break;end;n[e[u]]=n[e[k]][e[z]];until true;else n[e[u]]=n[e[k]][e[z]];end end else if 1>j then n[e[u]][e[k]]=e[z];h=h+1;e=c[h];else if 2>j then n[e[u]][e[k]]=e[z];h=h+1;e=c[h];else n[e[u]][e[k]]=e[z];h=h+1;e=c[h];end end end end end else if 127<=j then if 128~=j then n[e[u]]=y[e[k]];else local e=e[u]n[e]=n[e](n[e+1])end else local t;for j=0,6 do if 3<=j then if j<=4 then if j>1 then for z=25,81 do if j>3 then n(e[u],e[k]);h=h+1;e=c[h];break;end;n(e[u],e[k]);h=h+1;e=c[h];break;end;else n(e[u],e[k]);h=h+1;e=c[h];end else if 1~=j then repeat if 6>j then n(e[u],e[k]);h=h+1;e=c[h];break;end;t=e[u]n[t]=n[t](d(n,t+1,e[k]))until true;else n(e[u],e[k]);h=h+1;e=c[h];end end else if j<1 then n[e[u]][e[k]]=e[z];h=h+1;e=c[h];else if j>1 then n[e[u]]=n[e[k]][e[z]];h=h+1;e=c[h];else n[e[u]]=y[e[k]];h=h+1;e=c[h];end end end end end end else if j<131 then if j>126 then repeat if j~=130 then for j=0,6 do if 3<=j then if 4>=j then if j>=0 then repeat if j<4 then n[e[u]]=n[e[k]][e[z]];h=h+1;e=c[h];break;end;n[e[u]][e[k]]=n[e[z]];h=h+1;e=c[h];until true;else n[e[u]][e[k]]=n[e[z]];h=h+1;e=c[h];end else if j<6 then n[e[u]][e[k]]=e[z];h=h+1;e=c[h];else n[e[u]]=y[e[k]];end end else if 0<j then if-1<=j then for d=32,57 do if j>1 then n[e[u]]=n[e[k]][e[z]];h=h+1;e=c[h];break;end;n[e[u]]=y[e[k]];h=h+1;e=c[h];break;end;else n[e[u]]=n[e[k]][e[z]];h=h+1;e=c[h];end else n[e[u]][e[k]]=n[e[z]];h=h+1;e=c[h];end end end break;end;local t;for j=0,6 do if 3>j then if 0<j then if j~=-1 then for y=33,58 do if 2~=j then t=e[u]n[t]=n[t](d(n,t+1,e[k]))h=h+1;e=c[h];break;end;n[e[u]][e[k]]=n[e[z]];h=h+1;e=c[h];break;end;else n[e[u]][e[k]]=n[e[z]];h=h+1;e=c[h];end else n(e[u],e[k]);h=h+1;e=c[h];end else if j>4 then if 3<j then for z=25,59 do if 5<j then n(e[u],e[k]);break;end;n(e[u],e[k]);h=h+1;e=c[h];break;end;else n(e[u],e[k]);h=h+1;e=c[h];end else if 0~=j then for d=20,63 do if j~=3 then n[e[u]]=n[e[k]][e[z]];h=h+1;e=c[h];break;end;n[e[u]]=y[e[k]];h=h+1;e=c[h];break;end;else n[e[u]]=n[e[k]][e[z]];h=h+1;e=c[h];end end end end until true;else for j=0,6 do if 3<=j then if 4>=j then if j>=0 then repeat if j<4 then n[e[u]]=n[e[k]][e[z]];h=h+1;e=c[h];break;end;n[e[u]][e[k]]=n[e[z]];h=h+1;e=c[h];until true;else n[e[u]][e[k]]=n[e[z]];h=h+1;e=c[h];end else if j<6 then n[e[u]][e[k]]=e[z];h=h+1;e=c[h];else n[e[u]]=y[e[k]];end end else if 0<j then if-1<=j then for d=32,57 do if j>1 then n[e[u]]=n[e[k]][e[z]];h=h+1;e=c[h];break;end;n[e[u]]=y[e[k]];h=h+1;e=c[h];break;end;else n[e[u]]=n[e[k]][e[z]];h=h+1;e=c[h];end else n[e[u]][e[k]]=n[e[z]];h=h+1;e=c[h];end end end end else if 132<=j then if j>=129 then for t=39,83 do if 132~=j then local j;for d=0,6 do if 3>d then if d>0 then if d>-3 then for z=21,52 do if d>1 then j=e[u]n[j]=n[j](n[j+1])h=h+1;e=c[h];break;end;n(e[u],e[k]);h=h+1;e=c[h];break;end;else n(e[u],e[k]);h=h+1;e=c[h];end else n[e[u]]=n[e[k]][e[z]];h=h+1;e=c[h];end else if 5>d then if 4==d then n[e[u]]=n[e[k]][e[z]];h=h+1;e=c[h];else n[e[u]]=y[e[k]];h=h+1;e=c[h];end else if 2<d then repeat if d~=5 then j=e[u]n[j]=n[j](n[j+1])break;end;n(e[u],e[k]);h=h+1;e=c[h];until true;else n(e[u],e[k]);h=h+1;e=c[h];end end end end break;end;local j;for t=0,6 do if t>2 then if t<5 then if t<4 then n[e[u]]=y[e[k]];h=h+1;e=c[h];else n[e[u]]=n[e[k]][e[z]];h=h+1;e=c[h];end else if t>=3 then repeat if 6>t then n(e[u],e[k]);h=h+1;e=c[h];break;end;n(e[u],e[k]);until true;else n(e[u],e[k]);h=h+1;e=c[h];end end else if 0>=t then n(e[u],e[k]);h=h+1;e=c[h];else if 0<=t then for y=27,87 do if t~=2 then j=e[u]n[j]=n[j](d(n,j+1,e[k]))h=h+1;e=c[h];break;end;n[e[u]][e[k]]=n[e[z]];h=h+1;e=c[h];break;end;else j=e[u]n[j]=n[j](d(n,j+1,e[k]))h=h+1;e=c[h];end end end end break;end;else local j;for t=0,6 do if t>2 then if t<5 then if t<4 then n[e[u]]=y[e[k]];h=h+1;e=c[h];else n[e[u]]=n[e[k]][e[z]];h=h+1;e=c[h];end else if t>=3 then repeat if 6>t then n(e[u],e[k]);h=h+1;e=c[h];break;end;n(e[u],e[k]);until true;else n(e[u],e[k]);h=h+1;e=c[h];end end else if 0>=t then n(e[u],e[k]);h=h+1;e=c[h];else if 0<=t then for y=27,87 do if t~=2 then j=e[u]n[j]=n[j](d(n,j+1,e[k]))h=h+1;e=c[h];break;end;n[e[u]][e[k]]=n[e[z]];h=h+1;e=c[h];break;end;else j=e[u]n[j]=n[j](d(n,j+1,e[k]))h=h+1;e=c[h];end end end end end else n[e[u]]=(e[k]~=0);end end end else if j<=138 then if j>=136 then if j<=136 then n[e[u]]=n[e[k]][e[z]];else if 134<=j then repeat if 138~=j then local u=e[u];local h=n[e[k]];n[u+1]=h;n[u]=h[e[z]];break;end;n[e[u]][e[k]]=e[z];until true;else n[e[u]][e[k]]=e[z];end end else if j>=130 then repeat if j>134 then y[e[k]]=n[e[u]];break;end;local c,d,z,j,y;local h=0;while h>-1 do if 2>=h then if 1>h then c=e;else if h~=0 then for e=15,70 do if h>1 then z=k;break;end;d=u;break;end;else z=k;end end else if 5>h then if h>0 then for e=20,83 do if h~=4 then j=c[z];break;end;y=c[d];break;end;else j=c[z];end else if 6==h then h=-2;else n(y,j);end end end h=h+1 end until true;else y[e[k]]=n[e[u]];end end else if j>=142 then if 143<=j then if j>141 then repeat if 144~=j then local j;n[e[u]]=y[e[k]];h=h+1;e=c[h];n[e[u]]=n[e[k]][e[z]];h=h+1;e=c[h];n(e[u],e[k]);h=h+1;e=c[h];n(e[u],e[k]);h=h+1;e=c[h];n(e[u],e[k]);h=h+1;e=c[h];j=e[u]n[j]=n[j](d(n,j+1,e[k]))h=h+1;e=c[h];n[e[u]][e[k]]=n[e[z]];break;end;if(n[e[u]]~=e[z])then h=h+1;else h=e[k];end;until true;else local j;n[e[u]]=y[e[k]];h=h+1;e=c[h];n[e[u]]=n[e[k]][e[z]];h=h+1;e=c[h];n(e[u],e[k]);h=h+1;e=c[h];n(e[u],e[k]);h=h+1;e=c[h];n(e[u],e[k]);h=h+1;e=c[h];j=e[u]n[j]=n[j](d(n,j+1,e[k]))h=h+1;e=c[h];n[e[u]][e[k]]=n[e[z]];end else n[e[u]]=(e[k]~=0);end else if j>139 then if 139<j then for d=45,79 do if j<141 then local t,r,f,d,l,j;n[e[u]][e[k]]=n[e[z]];h=h+1;e=c[h];n[e[u]][e[k]]=e[z];h=h+1;e=c[h];n[e[u]]=y[e[k]];h=h+1;e=c[h];n[e[u]]=n[e[k]][e[z]];h=h+1;e=c[h];n(e[u],e[k]);h=h+1;e=c[h];n(e[u],e[k]);h=h+1;e=c[h];j=0;while j>-1 do if 3<=j then if j<5 then if j~=-1 then for e=47,88 do if j<4 then d=t[f];break;end;l=t[r];break;end;else d=t[f];end else if 2~=j then repeat if j~=5 then j=-2;break;end;n(l,d);until true;else n(l,d);end end else if 1>j then t=e;else if j>1 then f=k;else r=u;end end end j=j+1 end break;end;for j=0,4 do if 2>j then if j>-2 then repeat if j~=0 then n[e[u]]=y[e[k]];h=h+1;e=c[h];break;end;n[e[u]]=n[e[k]][e[z]];h=h+1;e=c[h];until true;else n[e[u]]=n[e[k]][e[z]];h=h+1;e=c[h];end else if 2>=j then n[e[u]]=n[e[k]][e[z]];h=h+1;e=c[h];else if 4~=j then n[e[u]]=l[e[k]];h=h+1;e=c[h];else n[e[u]]=n[e[k]][e[z]];end end end end break;end;else local d,r,l,t,f,j;n[e[u]][e[k]]=n[e[z]];h=h+1;e=c[h];n[e[u]][e[k]]=e[z];h=h+1;e=c[h];n[e[u]]=y[e[k]];h=h+1;e=c[h];n[e[u]]=n[e[k]][e[z]];h=h+1;e=c[h];n(e[u],e[k]);h=h+1;e=c[h];n(e[u],e[k]);h=h+1;e=c[h];j=0;while j>-1 do if 3<=j then if j<5 then if j~=-1 then for e=47,88 do if j<4 then t=d[l];break;end;f=d[r];break;end;else t=d[l];end else if 2~=j then repeat if j~=5 then j=-2;break;end;n(f,t);until true;else n(f,t);end end else if 1>j then d=e;else if j>1 then l=k;else r=u;end end end j=j+1 end end else local t;for j=0,6 do if j<=2 then if 1>j then n(e[u],e[k]);h=h+1;e=c[h];else if-3<j then for z=41,87 do if j<2 then n(e[u],e[k]);h=h+1;e=c[h];break;end;t=e[u]n[t]=n[t](d(n,t+1,e[k]))h=h+1;e=c[h];break;end;else n(e[u],e[k]);h=h+1;e=c[h];end end else if j>4 then if j>4 then repeat if j~=5 then n[e[u]]=n[e[k]][e[z]];break;end;n[e[u]]=y[e[k]];h=h+1;e=c[h];until true;else n[e[u]]=n[e[k]][e[z]];end else if 3~=j then n[e[u]][e[k]]=e[z];h=h+1;e=c[h];else n[e[u]][e[k]]=n[e[z]];h=h+1;e=c[h];end end end end end end end end else if 155>j then if 150<=j then if 152>j then if j>148 then repeat if j<151 then local t,l,f,a,r,s,j;for j=0,6 do if j>=3 then if j>=5 then if j<6 then j=0;while j>-1 do if j<=2 then if j>=1 then if 0<j then for e=15,94 do if j~=1 then a=k;break;end;f=u;break;end;else f=u;end else l=e;end else if 4<j then if j>3 then repeat if j>5 then j=-2;break;end;n(s,r);until true;else j=-2;end else if 4~=j then r=l[a];else s=l[f];end end end j=j+1 end h=h+1;e=c[h];else n(e[u],e[k]);end else if j>=-1 then for d=44,63 do if j>3 then n[e[u]]=n[e[k]][e[z]];h=h+1;e=c[h];break;end;n[e[u]]=y[e[k]];h=h+1;e=c[h];break;end;else n[e[u]]=y[e[k]];h=h+1;e=c[h];end end else if j<=0 then t=e[u]n[t]=n[t](d(n,t+1,e[k]))h=h+1;e=c[h];else if-1<j then for y=3
+
+
+local Reachgui = Instance.new("ScreenGui")
+local Drag = Instance.new("Frame")
+local Frame = Instance.new("Frame")
+local ScrollingFrame = Instance.new("ScrollingFrame")
+local Home = Instance.new("TextButton")
+local Reach = Instance.new("TextButton")
+local Removegui = Instance.new("TextButton")
+local ho = Instance.new("Frame")
+local Good = Instance.new("TextLabel")
+local Name1 = Instance.new("TextLabel")
+local TextButton = Instance.new("TextButton")
+local Link = Instance.new("TextLabel")
+local Cred = Instance.new("TextLabel")
+local Reacch = Instance.new("Frame")
+local X = Instance.new("TextBox")
+local Y = Instance.new("TextBox")
+local Z = Instance.new("TextBox")
+local Red = Instance.new("TextBox")
+local Blue = Instance.new("TextBox")
+local Green = Instance.new("TextBox")
+local Transparent = Instance.new("TextBox")
+local Activ1 = Instance.new("TextButton")
+local Activ = Instance.new("TextButton")
+local Boxtr = Instance.new("TextBox")
+local ClearB = Instance.new("TextButton")
+local Close = Instance.new("TextButton")
+local Minimize = Instance.new("TextButton")
+local N = Instance.new("TextLabel")
+local Open = Instance.new("TextButton")
+
+--Properties:
+
+Reachgui.Name = "Reach gui"
+Reachgui.Parent = game.CoreGui
+Reachgui.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
+
+Drag.Name = "Drag"
+Drag.Parent = Reachgui
+Drag.Active = true
+Drag.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+Drag.Draggable = true
+Drag.Position = UDim2.new(0.0742459297, 0, 0.144212529, 0)
+Drag.Size = UDim2.new(0, 321, 0, 30)
+Drag.Visible = false
+
+Frame.Parent = Drag
+Frame.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+Frame.BorderSizePixel = 0
+Frame.Position = UDim2.new(0, 0, 1, 0)
+Frame.Size = UDim2.new(0, 321, 0, 183)
+
+ScrollingFrame.Parent = Frame
+ScrollingFrame.Active = true
+ScrollingFrame.BackgroundColor3 = Color3.fromRGB(136, 136, 136)
+ScrollingFrame.BorderSizePixel = 0
+ScrollingFrame.Size = UDim2.new(0, 79, 0, 183)
+
+Home.Name = "Home"
+Home.Parent = ScrollingFrame
+Home.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+Home.BorderSizePixel = 0
+Home.Size = UDim2.new(0, 66, 0, 50)
+Home.Font = Enum.Font.SourceSans
+Home.Text = "Home"
+Home.TextColor3 = Color3.fromRGB(255, 255, 255)
+Home.TextScaled = true
+Home.TextSize = 14.000
+Home.TextWrapped = true
+Home.MouseButton1Click:Connect(function()
+	ho.Visible = true
+	Reacch.Visible = false
+end)
+
+Reach.Name = "Reach"
+Reach.Parent = ScrollingFrame
+Reach.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+Reach.BorderSizePixel = 0
+Reach.Position = UDim2.new(0, 0, 0.136612028, 0)
+Reach.Size = UDim2.new(0, 66, 0, 50)
+Reach.Font = Enum.Font.SourceSans
+Reach.Text = "Reach"
+Reach.TextColor3 = Color3.fromRGB(255, 255, 255)
+Reach.TextScaled = true
+Reach.TextSize = 14.000
+Reach.TextWrapped = true
+Reach.MouseButton1Click:Connect(function()
+	ho.Visible = false
+	Reacch.Visible = true
+end)
+
+Removegui.Name = "Remove gui"
+Removegui.Parent = ScrollingFrame
+Removegui.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
+Removegui.BorderSizePixel = 0
+Removegui.Position = UDim2.new(0, 0, 0.273224026, 0)
+Removegui.Size = UDim2.new(0, 66, 0, 50)
+Removegui.Font = Enum.Font.SourceSans
+Removegui.Text = "Remove gui"
+Removegui.TextColor3 = Color3.fromRGB(0, 0, 0)
+Removegui.TextScaled = true
+Removegui.TextSize = 14.000
+Removegui.TextWrapped = true
+Removegui.MouseButton1Click:Connect(function()
+	Reachgui:Destroy()
+end)
+
+ho.Name = "ho"
+ho.Parent = Frame
+ho.BackgroundColor3 = Color3.fromRGB(136, 136, 136)
+ho.Position = UDim2.new(0.289719582, 0, 0.0382513665, 0)
+ho.Size = UDim2.new(0, 217, 0, 165)
+
+Good.Name = "Good"
+Good.Parent = ho
+Good.BackgroundColor3 = Color3.fromRGB(136, 136, 136)
+Good.BorderSizePixel = 0
+Good.Size = UDim2.new(0, 217, 0, 50)
+Good.Font = Enum.Font.SourceSans
+Good.Text = "Thanks for using Reach Gui V3 Pls Subscribe :)"
+Good.TextColor3 = Color3.fromRGB(255, 255, 255)
+Good.TextScaled = true
+Good.TextSize = 14.000
+Good.TextWrapped = true
+
+Name1.Name = "Name"
+Name1.Parent = ho
+Name1.BackgroundColor3 = Color3.fromRGB(136, 136, 136)
+Name1.BorderSizePixel = 0
+Name1.Position = UDim2.new(0, 0, 0.357575744, 0)
+Name1.Size = UDim2.new(0, 216, 0, 50)
+Name1.Font = Enum.Font.SourceSans
+Name1.Text = ""
+Name1.TextColor3 = Color3.fromRGB(255, 255, 255)
+Name1.TextScaled = true
+Name1.TextSize = 14.000
+Name1.TextWrapped = true
+pcall(function()
+	Name1.Text = game.Players:GetPlayerFromCharacter(game.Workspace.CurrentCamera.CameraSubject.Parent).Name
+end)
+
+TextButton.Parent = ho
+TextButton.BackgroundColor3 = Color3.fromRGB(136, 136, 136)
+TextButton.BorderSizePixel = 0
+TextButton.Position = UDim2.new(0.10497161, 0, 0.696969688, 0)
+TextButton.Size = UDim2.new(0, 174, 0, 50)
+TextButton.Font = Enum.Font.SourceSans
+TextButton.Text = "Rejoin"
+TextButton.TextColor3 = Color3.fromRGB(255, 255, 255)
+TextButton.TextScaled = true
+TextButton.TextSize = 14.000
+TextButton.TextWrapped = true
+TextButton.MouseButton1Click:Connect(function()
+	game:GetService("TeleportService"):Teleport(game.PlaceId)
+end)
+
+Link.Name = "Link"
+Link.Parent = ho
+Link.BackgroundColor3 = Color3.fromRGB(136, 136, 136)
+Link.BorderSizePixel = 0
+Link.Position = UDim2.new(1.05069125, 0, 0.200000003, 0)
+Link.Size = UDim2.new(0, 228, 0, 30)
+Link.Font = Enum.Font.SourceSans
+Link.Text = "YT link: https://Youtube.com/c/Warriorrober"
+Link.TextColor3 = Color3.fromRGB(255, 255, 255)
+Link.TextScaled = true
+Link.TextSize = 1.000
+Link.TextWrapped = true
+
+Cred.Name = "Cred"
+Cred.Parent = ho
+Cred.BackgroundColor3 = Color3.fromRGB(136, 136, 136)
+Cred.BorderSizePixel = 0
+Cred.Position = UDim2.new(1.05069125, 0, 0, 0)
+Cred.Size = UDim2.new(0, 228, 0, 30)
+Cred.Font = Enum.Font.SourceSans
+Cred.Text = "Script made by WarriorRoberr"
+Cred.TextColor3 = Color3.fromRGB(255, 255, 255)
+Cred.TextScaled = true
+Cred.TextSize = 14.000
+Cred.TextWrapped = true
+
+Reacch.Name = "Reacch"
+Reacch.Parent = Frame
+Reacch.BackgroundColor3 = Color3.fromRGB(136, 136, 136)
+Reacch.Position = UDim2.new(0.289719582, 0, 0.0382513665, 0)
+Reacch.Size = UDim2.new(0, 217, 0, 165)
+Reacch.Visible = false
+
+X.Name = "X"
+X.Parent = Reacch
+X.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+X.BorderSizePixel = 0
+X.Position = UDim2.new(0.0368663594, 0, 0.0787878782, 0)
+X.Size = UDim2.new(0, 50, 0, 50)
+X.Font = Enum.Font.SourceSans
+X.PlaceholderColor3 = Color3.fromRGB(255, 255, 255)
+X.PlaceholderText = "put number"
+X.Text = "X"
+X.TextColor3 = Color3.fromRGB(255, 255, 255)
+X.TextScaled = true
+X.TextSize = 14.000
+X.TextWrapped = true
+
+Y.Name = "Y"
+Y.Parent = Reacch
+Y.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+Y.BorderSizePixel = 0
+Y.Position = UDim2.new(0.304147482, 0, 0.0787878782, 0)
+Y.Size = UDim2.new(0, 50, 0, 50)
+Y.Font = Enum.Font.SourceSans
+Y.PlaceholderColor3 = Color3.fromRGB(255, 255, 255)
+Y.PlaceholderText = "put number"
+Y.Text = "Y"
+Y.TextColor3 = Color3.fromRGB(255, 255, 255)
+Y.TextScaled = true
+Y.TextSize = 14.000
+Y.TextWrapped = true
+
+Z.Name = "Z"
+Z.Parent = Reacch
+Z.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+Z.BorderSizePixel = 0
+Z.Position = UDim2.new(0.57603687, 0, 0.0787878782, 0)
+Z.Size = UDim2.new(0, 50, 0, 50)
+Z.Font = Enum.Font.SourceSans
+Z.PlaceholderColor3 = Color3.fromRGB(255, 255, 255)
+Z.PlaceholderText = "put number"
+Z.Text = "Z"
+Z.TextColor3 = Color3.fromRGB(255, 255, 255)
+Z.TextScaled = true
+Z.TextSize = 14.000
+Z.TextWrapped = true
+
+Red.Name = "Red"
+Red.Parent = Reacch
+Red.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
+Red.BorderSizePixel = 0
+Red.Position = UDim2.new(0.0368663594, 0, 0.381818175, 0)
+Red.Size = UDim2.new(0, 50, 0, 50)
+Red.Font = Enum.Font.SourceSans
+Red.PlaceholderColor3 = Color3.fromRGB(0, 0, 0)
+Red.PlaceholderText = "put number"
+Red.Text = "Red"
+Red.TextColor3 = Color3.fromRGB(0, 0, 0)
+Red.TextScaled = true
+Red.TextSize = 14.000
+Red.TextWrapped = true
+
+Blue.Name = "Blue"
+Blue.Parent = Reacch
+Blue.BackgroundColor3 = Color3.fromRGB(0, 0, 255)
+Blue.BorderSizePixel = 0
+Blue.Position = UDim2.new(0.576036811, 0, 0.381818175, 0)
+Blue.Size = UDim2.new(0, 50, 0, 50)
+Blue.Font = Enum.Font.SourceSans
+Blue.PlaceholderColor3 = Color3.fromRGB(0, 0, 0)
+Blue.PlaceholderText = "put number"
+Blue.Text = "Blue"
+Blue.TextColor3 = Color3.fromRGB(0, 0, 0)
+Blue.TextScaled = true
+Blue.TextSize = 14.000
+Blue.TextWrapped = true
+
+Green.Name = "Green"
+Green.Parent = Reacch
+Green.BackgroundColor3 = Color3.fromRGB(0, 255, 0)
+Green.BorderSizePixel = 0
+Green.Position = UDim2.new(0.304147482, 0, 0.381818175, 0)
+Green.Size = UDim2.new(0, 50, 0, 50)
+Green.Font = Enum.Font.SourceSans
+Green.PlaceholderColor3 = Color3.fromRGB(0, 0, 0)
+Green.PlaceholderText = "put number"
+Green.Text = "Green"
+Green.TextColor3 = Color3.fromRGB(0, 0, 0)
+Green.TextScaled = true
+Green.TextSize = 14.000
+Green.TextWrapped = true
+
+Transparent.Name = "Transparent"
+Transparent.Parent = Reacch
+Transparent.BackgroundColor3 = Color3.fromRGB(136, 136, 136)
+Transparent.BorderSizePixel = 0
+Transparent.Position = UDim2.new(1.05069125, 0, 0.115151517, 0)
+Transparent.Size = UDim2.new(0, 105, 0, 37)
+Transparent.Font = Enum.Font.SourceSans
+Transparent.PlaceholderColor3 = Color3.fromRGB(255, 255, 255)
+Transparent.PlaceholderText = "put number"
+Transparent.Text = "0.7"
+Transparent.TextColor3 = Color3.fromRGB(255, 255, 255)
+Transparent.TextSize = 16.000
+Transparent.TextWrapped = true
+
+Activ1.Name = "Activ1"
+Activ1.Parent = Reacch
+Activ1.BackgroundColor3 = Color3.fromRGB(136, 136, 136)
+Activ1.BorderSizePixel = 0
+Activ1.Position = UDim2.new(0.53456223, 0, 0.864685416, 0)
+Activ1.Size = UDim2.new(0, 92, 0, 22)
+Activ1.Font = Enum.Font.SourceSans
+Activ1.Text = "Ball Reach"
+Activ1.TextColor3 = Color3.fromRGB(255, 255, 255)
+Activ1.TextScaled = true
+Activ1.TextSize = 1.000
+Activ1.TextWrapped = true
+Activ1.MouseButton1Click:Connect(function()
+	local box1 = Instance.new("SelectionSphere")
+	box1.Parent = game.Players.LocalPlayer.Character:FindFirstChildOfClass("Tool").Handle
+	box1.Adornee = game.Players.LocalPlayer.Character:FindFirstChildOfClass("Tool").Handle
+	box1.Color3 = Color3.new(Red.Text,Green.Text,Blue.Text)
+	box1.Transparency = Transparent.Text
+	box1.SurfaceTransparency = Transparent.Text
+	game.Players.LocalPlayer.Character:FindFirstChildOfClass("Tool").Handle.Shape = "Ball"
+	game.Players.LocalPlayer.Character:FindFirstChildOfClass("Tool").Handle.Size = Vector3.new(X.Text,Y.Text,Z.Text)
+	game.Players.LocalPlayer.Character:FindFirstChildOfClass("Tool").Handle.Massless = true
+end)
+
+Activ.Name = "Activ"
+Activ.Parent = Reacch
+Activ.BackgroundColor3 = Color3.fromRGB(136, 136, 136)
+Activ.BorderSizePixel = 0
+Activ.Position = UDim2.new(0.53456223, 0, 0.731352091, 0)
+Activ.Size = UDim2.new(0, 92, 0, 22)
+Activ.Font = Enum.Font.SourceSans
+Activ.Text = "Block Reach"
+Activ.TextColor3 = Color3.fromRGB(255, 255, 255)
+Activ.TextScaled = true
+Activ.TextSize = 1.000
+Activ.TextWrapped = true
+Activ.MouseButton1Click:Connect(function()
+	local box = Instance.new("SelectionBox")
+	box.Parent = game.Players.LocalPlayer.Character:FindFirstChildOfClass("Tool").Handle
+	box.Adornee = game.Players.LocalPlayer.Character:FindFirstChildOfClass("Tool").Handle
+	box.Color3 = Color3.new(Red.Text,Green.Text,Blue.Text)
+	box.Transparency = Transparent.Text
+	game.Players.LocalPlayer.Character:FindFirstChildOfClass("Tool").Handle.Shape = "Block"
+	game.Players.LocalPlayer.Character:FindFirstChildOfClass("Tool").Handle.Size = Vector3.new(X.Text,Y.Text,Z.Text)
+	game.Players.LocalPlayer.Character:FindFirstChildOfClass("Tool").Handle.Massless = true
+end)
+
+Boxtr.Name = "Boxtr"
+Boxtr.Parent = Reacch
+Boxtr.BackgroundColor3 = Color3.fromRGB(136, 136, 136)
+Boxtr.Position = UDim2.new(1.05069125, 0, -0.0424242429, 0)
+Boxtr.Size = UDim2.new(0, 105, 0, 26)
+Boxtr.Font = Enum.Font.SourceSans
+Boxtr.PlaceholderColor3 = Color3.fromRGB(255, 255, 255)
+Boxtr.Text = "Box Transparent"
+Boxtr.TextColor3 = Color3.fromRGB(255, 255, 255)
+Boxtr.TextSize = 16.000
+Boxtr.TextWrapped = true
+
+ClearB.Name = "Clear B"
+ClearB.Parent = Reacch
+ClearB.BackgroundColor3 = Color3.fromRGB(136, 136, 136)
+ClearB.BorderSizePixel = 0
+ClearB.Position = UDim2.new(0.110599078, 0, 0.731352091, 0)
+ClearB.Size = UDim2.new(0, 92, 0, 34)
+ClearB.Font = Enum.Font.SourceSans
+ClearB.Text = "Clear Box"
+ClearB.TextColor3 = Color3.fromRGB(255, 255, 255)
+ClearB.TextScaled = true
+ClearB.TextSize = 1.000
+ClearB.TextWrapped = true
+ClearB.MouseButton1Click:Connect(function()
+	game.Players.LocalPlayer.Character:FindFirstChildOfClass("Tool").Handle.SelectionBox:Destroy()
+	game.Players.LocalPlayer.Character:FindFirstChildOfClass("Tool").Handle.SelectionSphere:Destroy()
+end)
+
+Close.Name = "Close"
+Close.Parent = Drag
+Close.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+Close.BorderSizePixel = 0
+Close.Position = UDim2.new(0.906542063, 0, 0, 0)
+Close.Size = UDim2.new(0, 30, 0, 30)
+Close.Font = Enum.Font.SourceSans
+Close.Text = "X"
+Close.TextColor3 = Color3.fromRGB(255, 255, 255)
+Close.TextScaled = true
+Close.TextSize = 14.000
+Close.TextWrapped = true
+Close.MouseButton1Click:Connect(function()
+	Open.Visible = true
+	Drag.Visible = false
+end)
+
+Minimize.Name = "Minimize"
+Minimize.Parent = Drag
+Minimize.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+Minimize.BorderSizePixel = 0
+Minimize.Position = UDim2.new(0.813084126, 0, 0, 0)
+Minimize.Size = UDim2.new(0, 30, 0, 30)
+Minimize.Font = Enum.Font.SourceSans
+Minimize.Text = "-"
+Minimize.TextColor3 = Color3.fromRGB(255, 255, 255)
+Minimize.TextSize = 50.000
+Minimize.TextWrapped = true
+function Mini()
+	if Minimize.Text == "-" then
+		Minimize.Text = "+"
+		Frame.Visible = false
+	elseif Minimize.Text == "+" then
+		Minimize.Text = "-"
+		Frame.Visible = true
+	end
+end
+Minimize.MouseButton1Click:Connect(Mini)
+
+N.Name = "N"
+N.Parent = Drag
+N.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+N.BorderSizePixel = 0
+N.Size = UDim2.new(0, 128, 0, 30)
+N.Font = Enum.Font.SourceSans
+N.Text = "Reach Gui V3"
+N.TextColor3 = Color3.fromRGB(255, 255, 255)
+N.TextScaled = true
+N.TextSize = 14.000
+N.TextWrapped = true
+
+Open.Name = "Open"
+Open.Parent = Reachgui
+Open.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+Open.Position = UDim2.new(-0.00208333344, 0, 0.393750012, 0)
+Open.Size = UDim2.new(0, 83, 0, 50)
+Open.Font = Enum.Font.SourceSans
+Open.Text = "Open"
+Open.TextColor3 = Color3.fromRGB(255, 255, 255)
+Open.TextScaled = true
+Open.TextSize = 14.000
+Open.TextWrapped = true
+Open.MouseButton1Click:Connect(function()
+	Open.Visible = false
+	Drag.Visible = true
+end)
